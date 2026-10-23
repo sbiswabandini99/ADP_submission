@@ -1,0 +1,21 @@
+index,statistic,item,value
+decision,"Women (NFHS-4, all four items)",NA,84860
+decision,Components with eigenvalue > 1,NA,1
+decision,"KMO, overall",NA,0.8115641021155651
+decision,"KMO, item",decides_own_health,0.8208601412305389
+decision,"KMO, item",decides_purchases,0.7935875308317739
+decision,"KMO, item",decides_visits,0.8040853861446196
+decision,"KMO, item",decides_husband_earn,0.8314628968198147
+decision,Bartlett chi-square,NA,154807.38678945223
+decision,Bartlett df,NA,6
+decision,Bartlett p-value,NA,0
+barrier,"Women (NFHS-4, all four items)",NA,699686
+barrier,Components with eigenvalue > 1,NA,1
+barrier,"KMO, overall",NA,0.7367135610520287
+barrier,"KMO, item",barrier_permission,0.7410359436822702
+barrier,"KMO, item",barrier_money,0.7219285087098076
+barrier,"KMO, item",barrier_distance,0.7334902647272272
+barrier,"KMO, item",barrier_alone,0.7542009918019357
+barrier,Bartlett chi-square,NA,574143.23988667
+barrier,Bartlett df,NA,6
+barrier,Bartlett p-value,NA,0

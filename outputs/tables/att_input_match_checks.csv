@@ -1,0 +1,9 @@
+sample,spec,ad,non_ad,duplicate_ids,ad_weight_not_1,nonpositive_weights,missing_subclass,subclasses,subclass_missing_a_group,max_ad_per_subclass,max_non_ad_per_subclass,not_in_health_panel,not_in_emp_panel,ad_flag_mismatch,missing_covariates
+full,full,102,468,0,0,0,0,73,0,12,81,0,0,0,0
+full,full_cs,99,404,0,0,0,0,73,0,12,33,0,0,0,0
+full,nearest,102,306,0,0,0,0,102,0,1,3,0,0,0,0
+full,genetic,102,306,0,0,0,0,102,0,1,3,0,0,0,0
+precovid,full,40,220,0,0,0,0,28,0,6,67,0,0,0,0
+precovid,full_cs,36,180,0,0,0,0,28,0,6,27,0,0,0,0
+precovid,nearest,40,120,0,0,0,0,40,0,1,3,0,0,0,0
+precovid,genetic,40,120,0,0,0,0,40,0,1,3,0,0,0,0

@@ -1,0 +1,113 @@
+sno,state,district,district_2018,nfhs4_code,nfhs4_match,nfhs4_note,nfhs5_code,nfhs4_district,nfhs4_state,split_parent,mixed_parent,in_sample,shares_nfhs4_code,in_full_sample,in_precovid,status
+1,Andhra Pradesh,Alluri Sitharamaraju,Visakhapatnam,544,2018 name,matched on 2018 name 'Visakhapatnam',544,visakhapatnam,andhra pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+2,Andhra Pradesh,Parvathipuram Manyam,Vizianagaram,543,2018 name,matched on 2018 name 'Vizianagaram',543,vizianagaram,andhra pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+3,Andhra Pradesh,Y.S.R. Kadapa,Cuddapah,551,spelling,NFHS name 'y.s.r.',551,y.s.r.,andhra pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+4,Arunachal Pradesh,Namsai,Namsai,259,created after 2011,"Namsai carved from Lohit in 2014; NFHS-4 has only Lohit (259), which also includes non-AD area",806,lohit,arunachal pradesh,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+5,Assam,Baksa,Baksa,324,exact,NA,324,baksa,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+6,Assam,Barpeta,Barpeta,303,exact,NA,303,barpeta,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+7,Assam,Darrang,Darrang,325,exact,NA,325,darrang,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+8,Assam,Dhubri,Dhubri,301,exact,NA,812,dhubri,assam,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+9,Assam,Goalpara,Goalpara,302,exact,NA,302,goalpara,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+10,Assam,Hailakandi,Hailakandi,318,exact,NA,318,hailakandi,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+11,Assam,Udalguri,Udalguri,326,exact,NA,326,udalguri,assam,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+12,Bihar,Araria,Araria,209,exact,NA,209,araria,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+13,Bihar,Aurangabad,Aurangabad,235,exact,NA,235,aurangabad,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+14,Bihar,Banka,Banka,225,exact,NA,225,banka,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+15,Bihar,Begusarai,Begusarai,222,exact,NA,222,begusarai,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+16,Bihar,Gaya,Gaya,236,exact,NA,236,gaya,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+17,Bihar,Jamui,Jamui,238,exact,NA,238,jamui,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+18,Bihar,Katihar,Katihar,212,exact,NA,212,katihar,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+19,Bihar,Khagaria,Khagaria,223,exact,NA,223,khagaria,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+20,Bihar,Muzaffarpur,Muzaffarpur,216,exact,NA,216,muzaffarpur,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+21,Bihar,Nawada,Nawada,237,exact,NA,237,nawada,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+22,Bihar,Purnea,Purnia,211,2018 name,matched on 2018 name 'Purnia',211,purnia,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+23,Bihar,Sheikhpura,Sheikhpura,228,exact,NA,228,sheikhpura,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+24,Bihar,Sitamarhi,Sitamarhi,206,exact,NA,206,sitamarhi,bihar,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+25,Chhattisgarh,Bastar,Bastar,414,exact,NA,825,bastar,chhattisgarh,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dropped: NFHS-4 district later split (all parts are ADs)
+26,Chhattisgarh,Bijapur,Bijapur,417,exact,NA,417,bijapur,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+27,Chhattisgarh,Dantewada,Dantewada,416,spelling,NFHS name 'dakshin bastar dantewada'; the 2011 district also contains Sukma (also an AD),828,dakshin bastar dantewada,chhattisgarh,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dropped: NFHS-4 district later split (all parts are ADs)
+28,Chhattisgarh,Kanker,Kanker,413,spelling,NFHS name 'uttar bastar kanker',413,uttar bastar kanker,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+29,Chhattisgarh,Kondagaon,Kondagaon,414,created after 2011,"Kondagaon carved from Bastar in 2012; NFHS-4 has only Bastar (414), which is itself an AD",831,bastar,chhattisgarh,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dropped: NFHS-4 district later split (all parts are ADs)
+30,Chhattisgarh,Korba,Korba,404,exact,NA,404,korba,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+31,Chhattisgarh,Mahasamund,Mahasamund,411,exact,NA,411,mahasamund,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+32,Chhattisgarh,Narayanpur,Narayanpur,415,exact,NA,415,narayanpur,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+33,Chhattisgarh,Rajnandgaon,Rajnandgaon,408,exact,NA,408,rajnandgaon,chhattisgarh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+34,Chhattisgarh,Sukma,Sukma,416,created after 2011,"Sukma carved from Dantewada in 2012; NFHS-4 has only Dantewada (416), which is itself an AD",834,dakshin bastar dantewada,chhattisgarh,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Dropped: NFHS-4 district later split (all parts are ADs)
+35,Gujarat,Dahod,Dohad,485,2018 name,matched on 2018 name 'Dohad',485,dohad,gujarat,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+36,Gujarat,Narmada,Narmada,487,exact,NA,487,narmada,gujarat,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+37,Haryana,Mewat,Mewat,87,exact,NA,87,mewat,haryana,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+38,Himachal Pradesh,Chamba,Chamba,23,exact,NA,23,chamba,himachal pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+39,Jammu & Kashmir,Baramula,Baramula,8,exact,NA,8,baramula,jammu and kashmir,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+40,Jammu & Kashmir,Kupwara,Kupwara,1,exact,NA,1,kupwara,jammu and kashmir,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+41,Jharkhand,Bokaro,Bokaro,355,exact,NA,355,bokaro,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+42,Jharkhand,Chatra,Chatra,347,exact,NA,347,chatra,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+43,Jharkhand,Dumka,Dumka,362,exact,NA,362,dumka,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+44,Jharkhand,Garhwa,Garhwa,346,exact,NA,346,garhwa,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+45,Jharkhand,Giridih,Giridih,349,exact,NA,349,giridih,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+46,Jharkhand,Godda,Godda,351,exact,NA,351,godda,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+47,Jharkhand,Gumla,Gumla,366,exact,NA,366,gumla,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+48,Jharkhand,Hazaribag,Hazaribagh,360,2018 name,matched on 2018 name 'Hazaribagh',360,hazaribagh,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+49,Jharkhand,Khunti,Khunti,365,exact,NA,365,khunti,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+50,Jharkhand,Latehar,Latehar,359,exact,NA,359,latehar,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+51,Jharkhand,Lohardaga,Lohardaga,356,exact,NA,356,lohardaga,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+52,Jharkhand,Pakur,Pakur,353,exact,NA,353,pakur,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+53,Jharkhand,Palamu,Palamu,358,exact,NA,358,palamu,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+54,Jharkhand,Pashchimi Singhbhum,West Singbhum,368,exact,NA,368,pashchimi singhbhum,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+55,Jharkhand,Purbi Singhbhum,Purbi Singhbhum,357,exact,NA,357,purbi singhbhum,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+56,Jharkhand,Ramgarh,Ramgarh,361,exact,NA,361,ramgarh,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+57,Jharkhand,Ranchi,Ranchi,364,exact,NA,364,ranchi,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+58,Jharkhand,Sahibganj,Sahibganj,352,exact,NA,352,sahibganj,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+59,Jharkhand,Simdega,Simdega,367,exact,NA,367,simdega,jharkhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+60,Karnataka,Raichur,Raichur,559,exact,NA,559,raichur,karnataka,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+61,Karnataka,Yadgir,Yadgir,580,exact,NA,580,yadgir,karnataka,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+62,Kerala,Wayanad,NA,590,exact,NA,590,wayanad,kerala,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+63,Madhya Pradesh,Barwani,Barwani,441,exact,NA,441,barwani,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+64,Madhya Pradesh,Chhatarpur,Chhatarpur,425,exact,NA,425,chhatarpur,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+65,Madhya Pradesh,Damoh,Damoh,428,exact,NA,428,damoh,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+66,Madhya Pradesh,Guna,Guna,458,exact,NA,458,guna,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+67,Madhya Pradesh,Khandwa,Khandwa,466,spelling,NFHS name 'khandwa (east nimar)',466,khandwa (east nimar),madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+68,Madhya Pradesh,Rajgarh,Rajgarh,442,exact,NA,442,rajgarh,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+69,Madhya Pradesh,Singrauli,Singrauli,463,exact,NA,463,singrauli,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+70,Madhya Pradesh,Vidisha,Vidisha,443,exact,NA,443,vidisha,madhya pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+71,Maharashtra,Gadchiroli,Gadchiroli,508,exact,NA,508,gadchiroli,maharashtra,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+72,Maharashtra,Nandurbar,Nandurbar,497,exact,NA,497,nandurbar,maharashtra,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+73,Maharashtra,Osmanabad,Osmanabad,525,exact,NA,525,osmanabad,maharashtra,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+74,Maharashtra,Washim,Washim,502,exact,NA,502,washim,maharashtra,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+75,Manipur,Chandel,Chandel,280,exact,NA,280,chandel,manipur,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+76,Meghalaya,Ribhoi,Ribhoi,297,exact,NA,297,ribhoi,meghalaya,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+77,Mizoram,Mamit,Mamit,281,exact,NA,281,mamit,mizoram,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+78,Nagaland,Kiphire,Kiphire,269,exact,NA,269,kiphire,nagaland,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+79,Odisha,Balangir,NA,393,exact,NA,393,balangir,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+80,Odisha,Dhenkanal,NA,383,exact,NA,383,dhenkanal,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+81,Odisha,Gajapati,NA,389,exact,NA,389,gajapati,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+82,Odisha,Kalahandi,NA,395,exact,NA,395,kalahandi,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+83,Odisha,Kandhamal,NA,390,exact,NA,390,kandhamal,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+84,Odisha,Koraput,NA,398,exact,NA,398,koraput,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+85,Odisha,Malkangiri,NA,399,exact,NA,399,malkangiri,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+86,Odisha,Nabarangapur,NA,397,exact,NA,397,nabarangapur,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+87,Odisha,Nuapada,NA,394,exact,NA,394,nuapada,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+88,Odisha,Rayagada,NA,396,exact,NA,396,rayagada,odisha,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+89,Punjab,Ferozepur,Firozpur,43,2018 name,matched on 2018 name 'Firozpur',880,firozpur,punjab,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+90,Punjab,Moga,Moga,42,exact,NA,42,moga,punjab,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+91,Rajasthan,Baran,Baran,128,exact,NA,128,baran,rajasthan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+92,Rajasthan,Dholpur,Dholpur,106,spelling,NFHS name 'dhaulpur',106,dhaulpur,rajasthan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+93,Rajasthan,Jaisalmer,Jaisalmer,114,exact,NA,114,jaisalmer,rajasthan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+94,Rajasthan,Karauli,Karauli,107,exact,NA,107,karauli,rajasthan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+95,Rajasthan,Sirohi,Sirohi,117,exact,NA,117,sirohi,rajasthan,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+96,Sikkim,Soreng,West Sikkim,242,renamed,2018 AD 'West Sikkim' = NFHS 'west district',242,west district,sikkim,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+97,Tamil Nadu,Ramanathapuram,Ramanathapuram,626,exact,NA,626,ramanathapuram,tamil nadu,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+98,Tamil Nadu,Virudhunagar,Virudhunagar,625,exact,NA,625,virudhunagar,tamil nadu,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+99,Telangana,Asifabad,Asifabad,532,created after 2011,"Komaram Bheem Asifabad carved from Adilabad in 2016; NFHS-4 has only Adilabad (532), which also includes non-AD area",893,adilabad,telangana,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+100,Telangana,Bhadradri-Kothagudem,Khammam,541,created after 2011,"Bhadradri Kothagudem carved from Khammam in 2016; NFHS-4 has only Khammam (541), which also includes non-AD area",884,khammam,telangana,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+101,Telangana,Bhupalpally,Bhoopalpalli,540,created after 2011,"Jayashankar Bhupalpally carved from Warangal in 2016; NFHS-4 has only Warangal (540), which also includes non-AD area",888,warangal,telangana,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,Dropped: NFHS-4 district later split into AD and non-AD parts
+102,Tripura,Dhalai,Dhalai,291,exact,NA,291,dhalai,tripura,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,In sample
+103,Uttar Pradesh,Bahraich,Bahraich,180,exact,NA,180,bahraich,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+104,Uttar Pradesh,Balrampur,Balrampur,182,exact,NA,182,balrampur,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+105,Uttar Pradesh,Chandauli,Chandauli,196,exact,NA,196,chandauli,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+106,Uttar Pradesh,Chitrakoot,Chitrakoot,171,exact,NA,171,chitrakoot,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+107,Uttar Pradesh,Fatehpur,Fatehpur,172,exact,NA,172,fatehpur,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+108,Uttar Pradesh,Shravasti,Shrawasti,181,2018 name,matched on 2018 name 'Shrawasti',181,shrawasti,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+109,Uttar Pradesh,Siddharthnagar,Siddharthnagar,184,exact,NA,184,siddharth nagar,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+110,Uttar Pradesh,Sonbhadra,Sonebhadra,200,exact,NA,200,sonbhadra,uttar pradesh,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+111,Uttarakhand,Haridwar,Haridwar,68,spelling,NFHS name 'hardwar',68,hardwar,uttarakhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample
+112,Uttarakhand,Udham Singh Nagar,Udham Singh Nagar,67,exact,NA,67,udham singh nagar,uttarakhand,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,In sample

@@ -1,0 +1,27 @@
+no,indicator,round,n_non_ad,mean_non_ad,n_ad,mean_ad,p_value,sample
+1.3,Registered pregnancies with a Mother and Child Protection card,nfhs4,224,88.49366906417144,40,86.10169804363149,0.2502516377401125,pre-COVID
+2,Mothers who consumed IFA for 100 days or more in pregnancy,nfhs4,224,36.969788011757814,40,27.39052890679546,0.00591923956977051,pre-COVID
+4.1,"Sex ratio at birth, children born in the last five years",nfhs4,224,945.5953803917297,40,935.2942160666995,0.578770695979836,pre-COVID
+5,Home births conducted by skilled health personnel,nfhs4,224,4.08091759869579,40,5.438952017410551,0.08188018962416792,pre-COVID
+6.1,Children under 3 breastfed within one hour of birth,nfhs4,224,51.05951795063337,40,50.53127005154868,0.849951087578412,pre-COVID
+7,Children under 5 who are underweight,nfhs4,224,28.456618734991167,40,37.31238599803452,1.0649726314878868e-4,pre-COVID
+8.2,Children with diarrhoea who received ORS,nfhs4,223,56.70353141109364,40,51.46971839695884,0.1290685289910899,pre-COVID
+8.3,Children with diarrhoea who received zinc,nfhs4,223,23.024734594272477,40,21.18908502883954,0.4720418133209955,pre-COVID
+8.4,Children with fever or ARI taken to a facility or provider,nfhs4,224,69.06392429560148,40,62.143560613938455,0.04823641825954665,pre-COVID
+10.1,Breastfed children 6-23 months with an adequate diet,nfhs4,224,11.436968571201295,40,10.457764352346867,0.4501121591330811,pre-COVID
+10.2,Non-breastfed children 6-23 months with an adequate diet,nfhs4,224,16.21392016197503,40,9.99869352803975,0.010103153648927983,pre-COVID
+11a,Children 12-23 months fully vaccinated (card or recall),nfhs4,224,64.78679343522293,40,59.19072645526796,0.026488715914568577,pre-COVID
+11b,Children 12-23 months fully vaccinated (card only),nfhs4,224,78.17334296945641,40,76.60037269545569,0.341232277353281,pre-COVID
+1.3,Registered pregnancies with a Mother and Child Protection card,nfhs5,224,95.33506760058651,40,94.60691954978893,0.4368816798028652,pre-COVID
+2,Mothers who consumed IFA for 100 days or more in pregnancy,nfhs5,224,48.20806696779683,40,39.67143915455368,0.029120141895513835,pre-COVID
+4.1,"Sex ratio at birth, children born in the last five years",nfhs5,224,956.635522008694,40,932.4357381752513,0.24041100178709382,pre-COVID
+5,Home births conducted by skilled health personnel,nfhs5,224,2.822959972476668,40,4.423844519027324,0.020388293151838054,pre-COVID
+6.1,Children under 3 breastfed within one hour of birth,nfhs5,224,49.5031833449067,40,44.673771458143655,0.055641045447998874,pre-COVID
+7,Children under 5 who are underweight,nfhs5,224,29.691388067062626,40,35.371733601803015,0.002839255965158528,pre-COVID
+8.2,Children with diarrhoea who received ORS,nfhs5,224,66.80043981800371,40,64.97444386634481,0.5005649133782955,pre-COVID
+8.3,Children with diarrhoea who received zinc,nfhs5,224,33.49412809852941,40,34.736649508235864,0.6878182679435406,pre-COVID
+8.4,Children with fever or ARI taken to a facility or provider,nfhs5,224,67.99105375968588,40,69.02688479618274,0.6967876959363645,pre-COVID
+10.1,Breastfed children 6-23 months with an adequate diet,nfhs5,224,13.203754895871416,40,10.879994652175789,0.08389079564676412,pre-COVID
+10.2,Non-breastfed children 6-23 months with an adequate diet,nfhs5,221,16.499684838982905,40,10.617825589948382,0.01932586028149149,pre-COVID
+11a,Children 12-23 months fully vaccinated (card or recall),nfhs5,224,78.38416058861746,40,74.44844809302484,0.10166728394627417,pre-COVID
+11b,Children 12-23 months fully vaccinated (card only),nfhs5,224,85.1620575285587,40,81.91676083497312,0.08616576440667553,pre-COVID

@@ -1,0 +1,25 @@
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+# local settings: path to the NFHS data
+.Renviron
+# NFHS data and anything derived from it at individual level: never shared here
+*.DTA
+*.dta
+*.zip
+data/intermediate/
+# knitting by-products
+ADP_pipeline_files/
+*.log
+*.tex
+# renv: commit renv.lock, .Rprofile and renv/activate.R only
+renv/library/
+renv/local/
+renv/staging/
+renv/cellar/
+# system
+.DS_Store
+~$*
+.~lock*

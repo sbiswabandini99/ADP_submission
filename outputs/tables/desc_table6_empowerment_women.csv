@@ -1,0 +1,151 @@
+population,group,block,label,survey_round,N,mean,sd,min,max
+married_15_49,All,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,77231,-0.0296653293076439,1.0121274953679111,-2.0549422623460916,0.6897522082320587
+married_15_49,All,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,61828,0.13386119125549625,0.9184064307045005,-2.0549422623460916,0.6897522082320587
+married_15_49,All,Household decision-making (1 = she has a say),Own health care,nfhs4,79050,0.7455747594705695,0.43553764189901306,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Own health care,nfhs5,63335,0.8107759835824979,0.39168646648603594,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Large household purchases,nfhs4,79050,0.7323514235824873,0.44273334633747075,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Large household purchases,nfhs5,63335,0.7929367908317713,0.40520122973304623,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,79050,0.74397501078592565,0.4364357846373171,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,63335,0.8080278065111556,0.3938513303467589,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,77231,0.708537433230358,0.45443606694637434,0,1
+married_15_49,All,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,61828,0.7682846243254645,0.4219281459567941,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,456260,0.0012353455400451615,1.00910044272096,-0.7427778060007763,2.4721532972682496
+married_15_49,All,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,422479,-0.15229107727822083,0.9101290369182827,-0.7427778060007763,2.4721532972682496
+married_15_49,All,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,456260,0.1815437167209312,0.38546802155311977,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,422479,0.13312690557643742,0.33971183757427076,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,456260,0.2574149580423988,0.43720990086961686,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,422479,0.21311450035952711,0.4095078877091853,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,456260,0.30303671408268346,0.45957095643727536,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,422479,0.23183232787686112,0.42200248770362336,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,456260,0.1954956910905481,0.3965818022244342,0,1
+married_15_49,All,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,422479,0.1662359621331477,0.3722923139507454,0,1
+married_15_49,All,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,439130,5.708519844811167,12.13826671809207,0,120
+married_15_49,All,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,409190,3.8826216276095784,9.624035592803377,0,120
+married_15_49,All,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,439130,0.9767454824163466,0.15071079920034297,0,1
+married_15_49,All,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,409190,0.9873504486015264,0.11175661165186807,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,13782,-0.24456482758478676,1.1046356083559972,-2.0549422623460916,0.6897522082320587
+women_15_24,All,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,9715,-0.06366975397979698,1.0340543102606403,-2.0549422623460916,0.6897522082320587
+women_15_24,All,Household decision-making (1 = she has a say),Own health care,nfhs4,14408,0.6701209441305448,0.4701689742721569,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Own health care,nfhs5,10091,0.7441489234327133,0.43633851902696436,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Large household purchases,nfhs4,14408,0.633084894123387,0.4819630804907846,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Large household purchases,nfhs5,10091,0.7040465396682084,0.4564701629344768,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,14408,0.656894328571121,0.47474642669768263,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,10091,0.7207133178805916,0.44864867247116325,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,13782,0.6319290147280814,0.4822807637392134,0,1
+women_15_24,All,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,9715,0.7043256285055709,0.45634530515367333,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,226368,0.0276540471586097,1.0268208398015979,-0.7427778060007763,2.4721532972682496
+women_15_24,All,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,200054,-0.12008199292528157,0.9465133712131127,-0.7427778060007763,2.4721532972682496
+women_15_24,All,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,226368,0.20153290043458208,0.40114509903151846,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,200054,0.15760496695766255,0.36437019821596023,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,226368,0.256475025239422,0.4366870580494354,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,200054,0.21596749726178355,0.41149184364731806,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,226368,0.3059056527098127,0.4607899568675594,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,200054,0.23355893285613474,0.4230947384915667,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,226368,0.20473628530122617,0.4035087840212126,0,1
+women_15_24,All,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,200054,0.1750536174878651,0.3800129583215208,0,1
+women_15_24,All,Education,Woman's education (years),nfhs4,226368,8.956446974699778,4.234352864583294,0,20
+women_15_24,All,Education,Woman's education (years),nfhs5,200054,9.703695597400685,3.8316028339240393,0,20
+women_15_24,All,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,215455,5.769880500921279,12.232091214907662,0,120
+women_15_24,All,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,192125,3.884249300481847,9.877924155947431,0,120
+women_15_24,All,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,215455,0.9764430972769186,0.15166402031203252,0,1
+women_15_24,All,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,192125,0.9866458460869286,0.11478597687144762,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,13558,-0.07130141809331364,1.0408792720755047,-2.0549422623460916,0.6897522082320587
+married_15_49,AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,11450,0.11650779587331529,0.9423610530665201,-2.0549422623460916,0.6897522082320587
+married_15_49,AD,Household decision-making (1 = she has a say),Own health care,nfhs4,13881,0.7252496457755188,0.44638839263358987,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Own health care,nfhs5,11739,0.797098380256949,0.40215985932051374,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Large household purchases,nfhs4,13881,0.7211182682554887,0.44844922950507005,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Large household purchases,nfhs5,11739,0.7877501946264017,0.408900752619098,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,13881,0.7116373210483794,0.4530007111909019,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,11739,0.7936308659049539,0.4046985477956458,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,13558,0.7105478794283476,0.4535080930570266,0,1
+married_15_49,AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,11450,0.7781271519483698,0.4155060617477054,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,83046,0.20482215253477568,1.0837927531859894,-0.7427778060007763,2.4721532972682496
+married_15_49,AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,78315,0.03481304559590281,1.024954800099376,-0.7427778060007763,2.4721532972682496
+married_15_49,AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,83046,0.22475252157582215,0.41741924443074413,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,78315,0.17812897890043802,0.38262128244039517,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,83046,0.31996686566450333,0.4664633646293449,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,78315,0.2681925783532399,0.44301841865716307,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,83046,0.3941382287824343,0.4886647986040039,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,78315,0.30667257649851537,0.46111225024096636,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,83046,0.2563895839439632,0.43663939949230357,0,1
+married_15_49,AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,78315,0.22683281027332208,0.4187835794976115,0,1
+married_15_49,AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,79981,7.713676710423903,13.500269835370348,0,120
+married_15_49,AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,75873,5.06992590518943,10.587983102155734,0,120
+married_15_49,AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,79981,0.970107397074304,0.17029103093243897,0,1
+married_15_49,AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,75873,0.9839194212739226,0.12578550677211156,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,2832,-0.29117773054424123,1.1240706563713512,-2.0549422623460916,0.6897522082320587
+women_15_24,AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,2168,-0.04450467254420035,1.0472682553013535,-2.0549422623460916,0.6897522082320587
+women_15_24,AD,Household decision-making (1 = she has a say),Own health care,nfhs4,2966,0.6372412427324722,0.48079604958157574,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Own health care,nfhs5,2246,0.7339139429503431,0.44190979542597014,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Large household purchases,nfhs4,2966,0.6177498796251365,0.4859372036058445,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Large household purchases,nfhs5,2246,0.7117824549600174,0.4529328777767277,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,2966,0.623373126406948,0.4845400619975377,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,2246,0.7314155723201573,0.44322323143957015,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,2832,0.6298615424101203,0.4828415680146704,0,1
+women_15_24,AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,2168,0.7227435781196933,0.44764416494179365,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,42966,0.2144227928179837,1.0998120340218205,-0.7427778060007763,2.4721532972682496
+women_15_24,AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,39446,0.07484442385901861,1.0538292853106297,-0.7427778060007763,2.4721532972682496
+women_15_24,AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,42966,0.24421693847806944,0.4296219564203693,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,39446,0.20678504057789796,0.4049999846556732,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,42966,0.316517944905075,0.46511755015064987,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,39446,0.27337431421268354,0.44569137140114307,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,42966,0.3892670400453177,0.48758405591208276,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,39446,0.3137314362943727,0.46400864450465873,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,42966,0.2548691394229933,0.4357876331342747,0,1
+women_15_24,AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,39446,0.23367125343130127,0.4231654508004442,0,1
+women_15_24,AD,Education,Woman's education (years),nfhs4,42966,7.587503729307935,4.498992620500534,0,20
+women_15_24,AD,Education,Woman's education (years),nfhs5,39446,8.517907597531138,4.191382319797855,0,20
+women_15_24,AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,40874,7.602345924128766,13.263893399471188,0,120
+women_15_24,AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,37811,4.881513550065228,10.467568136507811,0,120
+women_15_24,AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,40874,0.9704258282412157,0.1694093861731716,0,1
+women_15_24,AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,37811,0.9848441474530171,0.12217263474509664,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,63673,-0.023359427329140734,1.0075514158737142,-2.0549422623460916,0.6897522082320587
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,50378,0.13672644076667861,0.9143592030390018,-2.0549422623460916,0.6897522082320587
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Own health care,nfhs4,65169,0.7486676158576371,0.43377922590146534,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Own health care,nfhs5,51596,0.813042380080815,0.389877504189895,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Large household purchases,nfhs4,65169,0.7340607638952454,0.44183204818661237,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Large household purchases,nfhs5,51596,0.7937962165073464,0.4045785253396154,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,65169,0.7488958113161532,0.4336483311501116,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,51596,0.8104133981239419,0.3919738795699987,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,63673,0.7082329455364715,0.4545756707009338,0,1
+married_15_49,Non-AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,50378,0.7666595073475588,0.42295709846409324,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,373214,-0.031150075558649702,0.992861860047828,-0.7427778060007763,2.4721532972682496
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,344164,-0.18305287225692757,0.8860594914740535,-0.7427778060007763,2.4721532972682496
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,373214,0.17467030797183128,0.3796848581190193,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,344164,0.12572811322515492,0.33154268921211905,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,373214,0.24746455949361468,0.431538933687641,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,344164,0.2040591117499815,0.40301239517139337,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,373214,0.2885448078543946,0.45308575536497114,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,344164,0.2195278401461723,0.41392676592233874,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,373214,0.18580904001767826,0.38895249152741895,0,1
+married_15_49,Non-AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,344164,0.15627323234282392,0.3631141820363968,0,1
+married_15_49,Non-AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,359149,5.3892214146012325,11.875805160782688,0,120
+married_15_49,Non-AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,333317,3.688031199219526,9.442456464999774,0,120
+married_15_49,Non-AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,359149,0.9778025220253788,0.14732532011222113,0,1
+married_15_49,Non-AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,333317,0.9879127687161519,0.10927547814459794,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs4,10950,-0.2362419030579138,1.1009216719059103,-2.0549422623460916,0.6897522082320587
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Household decision-making index (SD units),nfhs5,7547,-0.06751651445264932,1.0313387299022303,-2.0549422623460916,0.6897522082320587
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Own health care,nfhs4,11442,0.6760874005311461,0.4679671221081517,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Own health care,nfhs5,7845,0.7462213842096319,0.43517241405894413,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Large household purchases,nfhs4,11442,0.6358676351920702,0.48118601985855236,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Large household purchases,nfhs5,7845,0.7024801096155653,0.45716715237434374,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs4,11442,0.6629771937646591,0.4726927483181854,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Visits to family or relatives,nfhs5,7845,0.7185462397323958,0.44970828444540173,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs4,10950,0.6322981703689337,0.4821796284757736,0,1
+women_15_24,Non-AD,Household decision-making (1 = she has a say),Use of husband's/partner's earnings,nfhs5,7547,0.7006288302005599,0.45798261156113035,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs4,183402,-0.0040462604670935,1.0104895056627006,-0.7427778060007763,2.4721532972682496
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Healthcare access barrier index (SD units),nfhs5,160608,-0.15536514300394022,0.921362257246138,-0.7427778060007763,2.4721532972682496
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs4,183402,0.19428812759044248,0.3956516789650344,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Needing permission to go,nfhs5,160608,0.14870300309331005,0.3557954749070546,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs4,183402,0.246283924916781,0.4308458578707338,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Getting money needed for treatment,nfhs5,160608,0.2055764308715546,0.40412221164106343,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs4,183402,0.2917567028236151,0.45457092865811954,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Distance to health facility,nfhs5,160608,0.2190471056874186,0.4136006179605914,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs4,183402,0.19622722297280784,0.39714241770074654,0,1
+women_15_24,Non-AD,Healthcare access barriers (1 = big problem),Not wanting to go alone,nfhs5,160608,0.16444338373726866,0.37067743023052313,0,1
+women_15_24,Non-AD,Education,Woman's education (years),nfhs4,183402,9.188798066675954,4.1431151016036845,0,20
+women_15_24,Non-AD,Education,Woman's education (years),nfhs5,160608,9.918332159499629,3.7226494227666636,0,20
+women_15_24,Non-AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs4,174581,5.458821471433604,12.020471695404481,0,120
+women_15_24,Non-AD,Time use,"Round-trip time to water source (minutes, capped at 120)",nfhs5,154314,3.704853031966358,9.757266445792371,0,120
+women_15_24,Non-AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs4,174581,0.9774645222067575,0.14841708134129009,0,1
+women_15_24,Non-AD,Time use,Collection time within 30 minutes (JMP time criterion),nfhs5,154314,0.9869699507683601,0.1134031174556311,0,1

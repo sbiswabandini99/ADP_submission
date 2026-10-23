@@ -1,0 +1,5 @@
+step,districts,ad,non_ad
+NFHS-4 districts (2011 boundaries),640,110,530
+"Same boundaries in both rounds (NOSPLIT, Stage 05)",582,102,480
+All 12 matching covariates available (full sample),570,102,468
+Pre-COVID: NFHS-5 Phase 1 States/UTs (pre-COVID sample),260,40,220

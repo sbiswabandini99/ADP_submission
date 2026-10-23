@@ -1,0 +1,7 @@
+index,comparison,correlation
+decision,"Pooled-PCA index (6.4), all women",0.9999963938729208
+decision,"Sum of the four items, all women",0.9999025970874883
+decision,"PCA on NFHS-5 alone, NFHS-5 women",0.9999777073331818
+barrier,"Pooled-PCA index (6.4), all women",0.9999875687326766
+barrier,"Sum of the four items, all women",0.9993884372914443
+barrier,"PCA on NFHS-5 alone, NFHS-5 women",0.9999435312827518

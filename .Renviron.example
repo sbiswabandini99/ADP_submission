@@ -1,0 +1,3 @@
+## Copy this file to a new file named .Renviron in the project root, set the full path to
+## the folder that holds the NFHS files, then restart R. Keep the quotes if the path has spaces.
+ADP_DHS_DIR="/full/path/to/NFHS_data"

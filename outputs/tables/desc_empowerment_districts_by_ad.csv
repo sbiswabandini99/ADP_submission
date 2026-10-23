@@ -1,0 +1,37 @@
+outcome,population,survey_round,group,districts,mean,sd,median_women
+Decision-making index (SD units),married_15_49,nfhs4,AD,102,-0.006506298297781308,0.26954192411819755,124.5
+Decision-making index (SD units),married_15_49,nfhs4,Non-AD,480,-0.002722100333855746,0.2660714773195157,122
+Decision-making index (SD units),married_15_49,nfhs5,AD,102,0.15432763205541167,0.25057238545516775,113
+Decision-making index (SD units),married_15_49,nfhs5,Non-AD,480,0.16316130814097046,0.2310821680209946,106
+Decision-making index (SD units),women_15_24,nfhs4,AD,102,-0.1714140064059432,0.39520636310875995,26.5
+Decision-making index (SD units),women_15_24,nfhs4,Non-AD,480,-0.1774695604246383,0.3952008695043761,21
+Decision-making index (SD units),women_15_24,nfhs5,AD,102,0.01771688231108609,0.36946446124195265,20.5
+Decision-making index (SD units),women_15_24,nfhs5,Non-AD,477,-0.006279645796421964,0.3786680990379448,14
+Barrier index (SD units),married_15_49,nfhs4,AD,102,0.18415372065666516,0.30629082121865775,779.5
+Barrier index (SD units),married_15_49,nfhs4,Non-AD,480,-0.0293450520320508,0.351814937898614,721
+Barrier index (SD units),married_15_49,nfhs5,AD,102,0.03158334245387642,0.2204154201056501,768.5
+Barrier index (SD units),married_15_49,nfhs5,Non-AD,480,-0.17206119250649338,0.27603368510432363,720
+Barrier index (SD units),women_15_24,nfhs4,AD,102,0.19298007651149968,0.3168309154071367,399.5
+Barrier index (SD units),women_15_24,nfhs4,Non-AD,480,-0.02172766731928178,0.35313870799501595,348
+Barrier index (SD units),women_15_24,nfhs5,AD,102,0.053031660321932995,0.23316590127650255,392
+Barrier index (SD units),women_15_24,nfhs5,Non-AD,480,-0.15725491293797522,0.27558471091854264,316.5
+Education (years),women_15_24,nfhs4,AD,102,7.676984330413771,1.5830005759382304,399.5
+Education (years),women_15_24,nfhs4,Non-AD,480,9.293986617811843,1.5809406319737458,348
+Education (years),women_15_24,nfhs5,AD,102,8.638561921431947,1.4705881025314411,392
+Education (years),women_15_24,nfhs5,Non-AD,480,10.104092250527497,1.300466047619791,316.5
+"Round-trip water time (minutes, capped at 120)",married_15_49,nfhs4,AD,102,8.779980468899923,5.830255518757394,741.5
+"Round-trip water time (minutes, capped at 120)",married_15_49,nfhs4,Non-AD,480,5.5625844149215125,4.823949073730091,692.5
+"Round-trip water time (minutes, capped at 120)",married_15_49,nfhs5,AD,102,5.853032281575798,3.855178433905885,746.5
+"Round-trip water time (minutes, capped at 120)",married_15_49,nfhs5,Non-AD,480,3.8396303884371323,3.4437058410130024,697.5
+"Round-trip water time (minutes, capped at 120)",women_15_24,nfhs4,AD,102,8.712943537093143,5.866319226916126,380
+"Round-trip water time (minutes, capped at 120)",women_15_24,nfhs4,Non-AD,480,5.654253388367391,4.906831787958274,334
+"Round-trip water time (minutes, capped at 120)",women_15_24,nfhs5,AD,102,5.857276500618949,3.889706426901323,382.5
+"Round-trip water time (minutes, capped at 120)",women_15_24,nfhs5,Non-AD,480,3.9629008817261018,3.548483981454502,310
+Water within 30 minutes (share),married_15_49,nfhs4,AD,102,0.9663594460378592,0.04057748091621591,741.5
+Water within 30 minutes (share),married_15_49,nfhs4,Non-AD,480,0.9765984231400838,0.03104849327300418,692.5
+Water within 30 minutes (share),married_15_49,nfhs5,AD,102,0.98184277766799,0.021564835928979717,746.5
+Water within 30 minutes (share),married_15_49,nfhs5,Non-AD,480,0.9857468703610585,0.021061839768262213,697.5
+Water within 30 minutes (share),women_15_24,nfhs4,AD,102,0.9669039491727427,0.04158373844463352,380
+Water within 30 minutes (share),women_15_24,nfhs4,Non-AD,480,0.976473736285959,0.031766915547165236,334
+Water within 30 minutes (share),women_15_24,nfhs5,AD,102,0.9824513076730302,0.022449250020452543,382.5
+Water within 30 minutes (share),women_15_24,nfhs5,Non-AD,480,0.9850737306783663,0.02272753077413288,310

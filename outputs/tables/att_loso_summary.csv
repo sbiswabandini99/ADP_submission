@@ -1,0 +1,45 @@
+sample,family,population,outcome,label,att_main,p_main,att_min,state_at_min,att_max,state_at_max,states_flipping_sign,states_changing_sig5
+full,empowerment,married_15_49,barrier_index,Barrier index (SD),0.05107218100312747,0.2617246896301769,-0.0156046835983391,madhya pradesh,0.07282051993281005,odisha,1,0
+full,empowerment,married_15_49,decision_index,Decision-making index (SD),-0.011006580125720119,0.7104446846084894,-0.03691312912653136,assam,0.006792997351607911,jharkhand,1,0
+full,empowerment,married_15_49,water_time_min,Water time (minutes),0.587885269411604,0.24584506446844967,0.33903485918590387,madhya pradesh,0.6934759430074324,odisha,0,0
+full,empowerment,married_15_49,water_within30,Water within 30 min (share),-0.010679171662811529,0.09298390702670173,-0.011576277705321669,uttar pradesh,-0.007486751658365101,jharkhand,0,0
+full,empowerment,women_15_24,barrier_index,Barrier index (SD),0.05552508450059077,0.2565893681377411,-0.004972426558266721,madhya pradesh,0.08186124824479714,odisha,1,0
+full,empowerment,women_15_24,decision_index,Decision-making index (SD),0.031690888414224655,0.6796288692184623,-0.06422685895762281,madhya pradesh,0.05090100614376947,jammu and kashmir,1,0
+full,empowerment,women_15_24,educ_years,Education (years),-0.14944417834721777,0.2005767292243773,-0.2259077624923013,bihar,-0.029338132375304585,madhya pradesh,0,0
+full,empowerment,women_15_24,water_time_min,Water time (minutes),0.5435317394982986,0.3134144652787233,0.3267866979674682,jharkhand,0.6618976991120993,chhattisgarh,0,0
+full,empowerment,women_15_24,water_within30,Water within 30 min (share),-0.00825883032868261,0.23908672962535604,-0.010474194538037931,madhya pradesh,-0.0035071866856993686,gujarat,0,0
+full,health,children/mothers,pct_breastfed_1hr,Children under 3 breastfed within one hour of birth,-4.691337672890496,0.032347942617209864,-6.427530094706021,odisha,-0.9075491280610047,madhya pradesh,0,4
+full,health,children/mothers,pct_fever_treated,Children with fever or ARI taken to a facility or provider,-2.1250689650776957,0.48784699861780556,-2.9646024374599538,uttar pradesh,-0.7117870069672537,jharkhand,0,0
+full,health,children/mothers,pct_home_birth_skilled,Home births conducted by skilled health personnel,-0.3266752973870591,0.4673269205684323,-0.8533376463678665,jharkhand,0.12239378097942916,odisha,1,0
+full,health,children/mothers,pct_ifa_100days,Mothers who consumed IFA for 100 days or more in pregnancy,-2.6437080064793697,0.2629659375908247,-3.69546445743335,odisha,1.206635545564137,madhya pradesh,1,0
+full,health,children/mothers,pct_mad_breastfed,Breastfed children 6-23 months with an adequate diet,-1.5500081198965767,0.21072639006984917,-2.2270425995648684,chhattisgarh,-0.5524671249495824,madhya pradesh,0,0
+full,health,children/mothers,pct_mad_nonbreastfed,Non-breastfed children 6-23 months with an adequate diet,-1.3955559522421832,0.5578817756818717,-3.5619423948894298,madhya pradesh,-0.36664333229303614,bihar,0,0
+full,health,children/mothers,pct_mcp_card,Registered pregnancies with a Mother and Child Protection card,-1.8193290673273252,0.1750638663669305,-2.2315004908761753,gujarat,-0.10518766693635816,manipur,0,0
+full,health,children/mothers,pct_ors_given,Children with diarrhoea who received ORS,2.847253534258917,0.42741242407139435,0.07771386506451006,madhya pradesh,4.007916832316762,uttar pradesh,0,0
+full,health,children/mothers,pct_underweight,Children under 5 who are underweight,1.4216808259435367,0.26569897615789206,-0.43527706040591685,madhya pradesh,2.2023170170470325,bihar,1,0
+full,health,children/mothers,pct_vacc_card_only,Children 12-23 months fully vaccinated (card only),-1.1181245732951552,0.5799658497002005,-1.7242108200857198,odisha,0.2585743194949931,chhattisgarh,1,0
+full,health,children/mothers,pct_vacc_either,Children 12-23 months fully vaccinated (card or recall),-3.1295179971919227,0.20610335416565057,-3.8032368344753498,uttar pradesh,-1.1839239466552198,chhattisgarh,0,0
+full,health,children/mothers,pct_zinc_given,Children with diarrhoea who received zinc,2.1886584440830994,0.4461349349141204,-0.04006076459364479,odisha,4.701392378967427,uttar pradesh,1,0
+full,health,children/mothers,srb,"Sex ratio at birth, children born in the last five years",-15.601786780983657,0.5397626738336199,-24.79868380957048,bihar,-0.665573548306277,gujarat,0,0
+precovid,empowerment,married_15_49,barrier_index,Barrier index (SD),0.11715158090372783,0.2646404323884356,0.01312613217864528,bihar,0.1743784042890172,assam,0,0
+precovid,empowerment,married_15_49,decision_index,Decision-making index (SD),-0.0864281006825255,0.1363116201296643,-0.11316403055897058,jammu and kashmir,-0.06693132614344979,andhra pradesh,0,0
+precovid,empowerment,married_15_49,water_time_min,Water time (minutes),-0.26018286846661215,0.6319363884757394,-0.5781446833300631,gujarat,0.011592513073429652,karnataka,1,0
+precovid,empowerment,married_15_49,water_within30,Water within 30 min (share),-0.0022291785360582217,0.6368620824455119,-0.003941921450731357,karnataka,0.0015651753235779119,gujarat,1,0
+precovid,empowerment,women_15_24,barrier_index,Barrier index (SD),0.16147620441981328,0.12327462550899253,0.04279621493303876,bihar,0.22958425471042565,assam,0,1
+precovid,empowerment,women_15_24,decision_index,Decision-making index (SD),-0.1743679617470471,0.03952664115249643,-0.24933898384850955,bihar,-0.1325330307933009,jammu and kashmir,0,9
+precovid,empowerment,women_15_24,educ_years,Education (years),-0.020554787160316,0.8531879293256447,-0.14930637133271,bihar,0.05673052492592972,jammu and kashmir,4,0
+precovid,empowerment,women_15_24,water_time_min,Water time (minutes),-0.2670345406292118,0.7024213716623458,-0.5650281153481279,gujarat,0.11961410690218681,jammu and kashmir,2,0
+precovid,empowerment,women_15_24,water_within30,Water within 30 min (share),-0.0029093281747226557,0.6346297064198461,-0.004885799039396862,jammu and kashmir,9.784203142720954e-4,gujarat,1,0
+precovid,health,children/mothers,pct_breastfed_1hr,Children under 3 breastfed within one hour of birth,3.4384503526589,0.3816114687160328,2.0040842499196563,nagaland,7.791715456723103,bihar,0,0
+precovid,health,children/mothers,pct_fever_treated,Children with fever or ARI taken to a facility or provider,1.2916005164227624,0.6506155245768069,0.006856758279892784,karnataka,3.206321076356155,andhra pradesh,0,0
+precovid,health,children/mothers,pct_home_birth_skilled,Home births conducted by skilled health personnel,-0.46029047497641046,0.295094562816373,-0.8625406258943237,bihar,-0.19758345959570847,andhra pradesh,0,0
+precovid,health,children/mothers,pct_ifa_100days,Mothers who consumed IFA for 100 days or more in pregnancy,1.8922775926976176,0.4082135113039508,0.7344625890664948,assam,3.1002319088604833,jammu and kashmir,0,0
+precovid,health,children/mothers,pct_mad_breastfed,Breastfed children 6-23 months with an adequate diet,0.38183633069636214,0.8906409077240008,-2.074414877497606,jammu and kashmir,2.033840912610021,assam,2,0
+precovid,health,children/mothers,pct_mad_nonbreastfed,Non-breastfed children 6-23 months with an adequate diet,-1.0387188072620226,0.7169946526705511,-3.13361052149884,assam,0.31003200163131983,gujarat,3,0
+precovid,health,children/mothers,pct_mcp_card,Registered pregnancies with a Mother and Child Protection card,2.1741278569099562,0.3154441192695401,0.3512394569993254,bihar,3.1168902071690687,andhra pradesh,0,0
+precovid,health,children/mothers,pct_ors_given,Children with diarrhoea who received ORS,-0.9808114823295815,0.8513319003933214,-3.6935952552609144,bihar,0.9529740043565241,nagaland,4,0
+precovid,health,children/mothers,pct_underweight,Children under 5 who are underweight,-4.04188136114538,0.042217091190886256,-4.860643603819554,jammu and kashmir,-2.247366092309324,assam,0,4
+precovid,health,children/mothers,pct_vacc_card_only,Children 12-23 months fully vaccinated (card only),-1.8288708529621194,0.39904524672663966,-2.6422413620870957,gujarat,0.4794143473392443,assam,1,0
+precovid,health,children/mothers,pct_vacc_either,Children 12-23 months fully vaccinated (card or recall),-0.544439936154592,0.8851589622634239,-1.2702824164361928,mizoram,2.622946869887034,assam,2,0
+precovid,health,children/mothers,pct_zinc_given,Children with diarrhoea who received zinc,5.972831731423458,0.45588052945947577,-0.16011698953372816,bihar,11.9980746515278,assam,1,0
+precovid,health,children/mothers,srb,"Sex ratio at birth, children born in the last five years",11.1732288363429,0.7963565845262031,-21.581664619156033,assam,37.62507704901112,jammu and kashmir,1,0

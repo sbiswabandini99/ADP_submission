@@ -1,0 +1,221 @@
+sample,spec_label,family,population,no,label,att,p_value,p_bh_separate,p_bh_pooled
+full,Main (full matching),health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,-1.8193290673273252,0.1750638663669305,0.5756811150087661,0.4871147896228021
+full,Main (full matching),health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,-2.6437080064793697,0.2629659375908247,0.5756811150087661,0.4871147896228021
+full,Main (full matching),health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-15.601786780983657,0.5397626738336199,0.5799658497002005,0.6379624346702206
+full,Main (full matching),health,children/mothers,5,Home births conducted by skilled health personnel,-0.3266752973870591,0.4673269205684323,0.5799658497002005,0.6313314099759837
+full,Main (full matching),health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-4.691337672890496,0.032347942617209864,0.42052325402372825,0.4871147896228021
+full,Main (full matching),health,children/mothers,7,Children under 5 who are underweight,1.4216808259435367,0.26569897615789206,0.5756811150087661,0.4871147896228021
+full,Main (full matching),health,children/mothers,8.2,Children with diarrhoea who received ORS,2.847253534258917,0.42741242407139435,0.5799658497002005,0.6313314099759837
+full,Main (full matching),health,children/mothers,8.3,Children with diarrhoea who received zinc,2.1886584440830994,0.4461349349141204,0.5799658497002005,0.6313314099759837
+full,Main (full matching),health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,-2.1250689650776957,0.48784699861780556,0.5799658497002005,0.6313314099759837
+full,Main (full matching),health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-1.5500081198965767,0.21072639006984917,0.5756811150087661,0.4871147896228021
+full,Main (full matching),health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-1.3955559522421832,0.5578817756818717,0.5799658497002005,0.6379624346702206
+full,Main (full matching),health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-3.1295179971919227,0.20610335416565057,0.5756811150087661,0.4871147896228021
+full,Main (full matching),health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.1181245732951552,0.5799658497002005,0.5799658497002005,0.6379624346702206
+full,"Main, adjusted",health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,-1.4537738388110835,0.19156999579975223,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,-1.6302974242474986,0.40804520167999847,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-14.251518685974643,0.5087400149459802,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,5,Home births conducted by skilled health personnel,-0.2954079849514855,0.5041685438887105,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-4.6023814539590395,0.03192236931749005,0.41499080112737063,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,7,Children under 5 who are underweight,1.5453483793268041,0.20662110146385074,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,8.2,Children with diarrhoea who received ORS,2.7859281308187254,0.4171465269759518,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,8.3,Children with diarrhoea who received zinc,1.9249588494186594,0.5028703001367016,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,-1.891302172814,0.5239361296472629,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-1.341557184634821,0.242905210137151,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-1.165281701814147,0.633493384694173,0.633493384694173,0.6636597363462765
+full,"Main, adjusted",health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-2.3532277994106825,0.28541766482082354,0.6191972441285835,0.6355241361169991
+full,"Main, adjusted",health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.064675909330941,0.6012585173354701,0.633493384694173,0.6613843690690171
+precovid,Main (full matching),health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,2.1741278569099562,0.3154441192695401,0.8466352689961694,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,1.8922775926976176,0.4082135113039508,0.8466352689961694,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",11.1732288363429,0.7963565845262031,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,5,Home births conducted by skilled health personnel,-0.46029047497641046,0.295094562816373,0.8466352689961694,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,3.4384503526589,0.3816114687160328,0.8466352689961694,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,7,Children under 5 who are underweight,-4.04188136114538,0.042217091190886256,0.5488221854815213,0.4643880030997488
+precovid,Main (full matching),health,children/mothers,8.2,Children with diarrhoea who received ORS,-0.9808114823295815,0.8513319003933214,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,8.3,Children with diarrhoea who received zinc,5.972831731423458,0.45588052945947577,0.8466352689961694,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,1.2916005164227624,0.6506155245768069,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,0.38183633069636214,0.8906409077240008,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-1.0387188072620226,0.7169946526705511,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-0.544439936154592,0.8851589622634239,0.8906409077240008,0.8906409077240008
+precovid,Main (full matching),health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.8288708529621194,0.39904524672663966,0.8466352689961694,0.8906409077240008
+precovid,"Main, adjusted",health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,2.529842583314051,0.20227383084660167,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,1.8668464507449984,0.476887995317818,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",15.268760661124574,0.6945742750478037,0.9029465575621448,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,5,Home births conducted by skilled health personnel,-0.20832257929654968,0.6150425640637796,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,2.7103473751407763,0.42256928445831377,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,7,Children under 5 who are underweight,-2.986718763193338,0.06078366843019021,0.7901876895924728,0.3847863080575646
+precovid,"Main, adjusted",health,children/mothers,8.2,Children with diarrhoea who received ORS,-1.4558645948336797,0.7770833505333403,0.9183712324484932,0.8997807216701835
+precovid,"Main, adjusted",health,children/mothers,8.3,Children with diarrhoea who received zinc,5.053936812242887,0.5043679579639171,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,-0.02102115712377443,0.993508535003617,0.993508535003617,0.993508535003617
+precovid,"Main, adjusted",health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-1.559766959103787,0.3151196848884794,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-1.8732185128577088,0.5687976090931354,0.8883948147587927,0.8859980377981851
+precovid,"Main, adjusted",health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),0.24302381148404142,0.9390170572683939,0.993508535003617,0.9837321552335556
+precovid,"Main, adjusted",health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.1397345962429488,0.5325961604890623,0.8883948147587927,0.8859980377981851
+full,Main (full matching),empowerment,married_15_49,NA,Decision-making index (SD),-0.011006580125720119,0.7104446846084894,0.7104446846084894,0.7104446846084894
+full,Main (full matching),empowerment,married_15_49,NA,Barrier index (SD),0.05107218100312747,0.2617246896301769,0.3925870344452654,0.4871147896228021
+full,Main (full matching),empowerment,married_15_49,NA,Water time (minutes),0.587885269411604,0.24584506446844967,0.3925870344452654,0.4871147896228021
+full,Main (full matching),empowerment,married_15_49,NA,Water within 30 min (share),-0.010679171662811529,0.09298390702670173,0.3925870344452654,0.4871147896228021
+full,Main (full matching),empowerment,women_15_24,NA,Decision-making index (SD),0.031690888414224655,0.6796288692184623,0.7104446846084894,0.7104446846084894
+full,Main (full matching),empowerment,women_15_24,NA,Barrier index (SD),0.05552508450059077,0.2565893681377411,0.3925870344452654,0.4871147896228021
+full,Main (full matching),empowerment,women_15_24,NA,Education (years),-0.14944417834721777,0.2005767292243773,0.3925870344452654,0.4871147896228021
+full,Main (full matching),empowerment,women_15_24,NA,Water time (minutes),0.5435317394982986,0.3134144652787233,0.40296145535835853,0.5303937104716856
+full,Main (full matching),empowerment,women_15_24,NA,Water within 30 min (share),-0.00825883032868261,0.23908672962535604,0.3925870344452654,0.4871147896228021
+full,"Main, adjusted",empowerment,married_15_49,NA,Decision-making index (SD),-0.02322967796239681,0.41689609272241934,0.5661491265697506,0.6355241361169991
+full,"Main, adjusted",empowerment,married_15_49,NA,Barrier index (SD),0.05908264576623684,0.142453678685804,0.4391691880785211,0.6355241361169991
+full,"Main, adjusted",empowerment,married_15_49,NA,Water time (minutes),0.32907658396244766,0.4403382095542504,0.5661491265697506,0.6355241361169991
+full,"Main, adjusted",empowerment,married_15_49,NA,Water within 30 min (share),-0.007321631244676654,0.12045476727571833,0.4391691880785211,0.6355241361169991
+full,"Main, adjusted",empowerment,women_15_24,NA,Decision-making index (SD),0.01187610948122348,0.8647325264287755,0.8647325264287755,0.8647325264287755
+full,"Main, adjusted",empowerment,women_15_24,NA,Barrier index (SD),0.06471419385492186,0.14638972935950703,0.4391691880785211,0.6355241361169991
+full,"Main, adjusted",empowerment,women_15_24,NA,Education (years),-0.12804270078752863,0.20329885834533876,0.4574224312770122,0.6355241361169991
+full,"Main, adjusted",empowerment,women_15_24,NA,Water time (minutes),0.2577929282377893,0.5488617539192264,0.6174694731591297,0.6355241361169991
+full,"Main, adjusted",empowerment,women_15_24,NA,Water within 30 min (share),-0.004348576800448108,0.36041259138026926,0.5661491265697506,0.6355241361169991
+precovid,Main (full matching),empowerment,married_15_49,NA,Decision-making index (SD),-0.0864281006825255,0.1363116201296643,0.4089348603889929,0.7497139107131536
+precovid,Main (full matching),empowerment,married_15_49,NA,Barrier index (SD),0.11715158090372783,0.2646404323884356,0.5954409728739801,0.8906409077240008
+precovid,Main (full matching),empowerment,married_15_49,NA,Water time (minutes),-0.26018286846661215,0.6319363884757394,0.7902240431201389,0.8906409077240008
+precovid,Main (full matching),empowerment,married_15_49,NA,Water within 30 min (share),-0.0022291785360582217,0.6368620824455119,0.7902240431201389,0.8906409077240008
+precovid,Main (full matching),empowerment,women_15_24,NA,Decision-making index (SD),-0.1743679617470471,0.03952664115249643,0.3557397703724679,0.4643880030997488
+precovid,Main (full matching),empowerment,women_15_24,NA,Barrier index (SD),0.16147620441981328,0.12327462550899253,0.4089348603889929,0.7497139107131536
+precovid,Main (full matching),empowerment,women_15_24,NA,Education (years),-0.020554787160316,0.8531879293256447,0.8531879293256447,0.8906409077240008
+precovid,Main (full matching),empowerment,women_15_24,NA,Water time (minutes),-0.2670345406292118,0.7024213716623458,0.7902240431201389,0.8906409077240008
+precovid,Main (full matching),empowerment,women_15_24,NA,Water within 30 min (share),-0.0029093281747226557,0.6346297064198461,0.7902240431201389,0.8906409077240008
+precovid,"Main, adjusted",empowerment,married_15_49,NA,Decision-making index (SD),-0.10880532458333446,0.02674999988342618,0.12037499947541781,0.294249998717688
+precovid,"Main, adjusted",empowerment,married_15_49,NA,Barrier index (SD),0.07293814206144907,0.2753982873116418,0.619646146451194,0.8859980377981851
+precovid,"Main, adjusted",empowerment,married_15_49,NA,Water time (minutes),-0.21028525412387689,0.706095968284254,0.8155209211551475,0.8859980377981851
+precovid,"Main, adjusted",empowerment,married_15_49,NA,Water within 30 min (share),-0.0033794056011025343,0.5294614707149183,0.7941922060723775,0.8859980377981851
+precovid,"Main, adjusted",empowerment,women_15_24,NA,Decision-making index (SD),-0.19299212756787065,0.02414643634345908,0.12037499947541781,0.294249998717688
+precovid,"Main, adjusted",empowerment,women_15_24,NA,Barrier index (SD),0.12387688767772026,0.0699611469195572,0.2098834407586716,0.3847863080575646
+precovid,"Main, adjusted",empowerment,women_15_24,NA,Education (years),-0.0370370786862909,0.7249074854712423,0.8155209211551475,0.8859980377981851
+precovid,"Main, adjusted",empowerment,women_15_24,NA,Water time (minutes),-0.11428474818793873,0.8528449464097718,0.8528449464097718,0.938129441050749
+precovid,"Main, adjusted",empowerment,women_15_24,NA,Water within 30 min (share),-0.004703867462723181,0.47521535581457275,0.7941922060723775,0.8859980377981851
+full,Common support,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,-2.0809679484648145,0.14399613864017052,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,-1.9792598958454568,0.41324915607063706,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-2.7724622359340527,0.9073544222885008,0.9073544222885008,0.9073544222885008
+full,Common support,health,children/mothers,5,Home births conducted by skilled health personnel,-0.25433035696722855,0.5684697686917961,0.6800752316809601,0.6663085265862038
+full,Common support,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-5.156590210463321,0.01875887734855911,0.24386540553126843,0.4126953016683004
+full,Common support,health,children/mothers,7,Children under 5 who are underweight,1.1551447876554055,0.3910264023452744,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,8.2,Children with diarrhoea who received ORS,3.057812203047269,0.41751080106663785,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,8.3,Children with diarrhoea who received zinc,1.6621441141567639,0.5754482729608124,0.6800752316809601,0.6663085265862038
+full,Common support,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,-1.7456911529192707,0.5677101451151414,0.6800752316809601,0.6663085265862038
+full,Common support,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-1.515423491811814,0.2378897966555075,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-0.8845438242442887,0.7197097417359637,0.779685553547294,0.7916807159095601
+full,Common support,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-2.924088913305866,0.24158898284413946,0.6784550517332865,0.6123491748977354
+full,Common support,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.6687144578380095,0.4126285604737424,0.6784550517332865,0.6123491748977354
+full,Common support,empowerment,married_15_49,NA,Decision-making index (SD),-0.00390873477113482,0.8956219234740838,0.8956219234740838,0.9073544222885008
+full,Common support,empowerment,married_15_49,NA,Barrier index (SD),0.061212568440211355,0.16238896937776437,0.4871669081332931,0.6123491748977354
+full,Common support,empowerment,married_15_49,NA,Water time (minutes),0.5205725743668794,0.3093930392493677,0.495455436721145,0.6123491748977354
+full,Common support,empowerment,married_15_49,NA,Water within 30 min (share),-0.009153849018292942,0.14279894730023934,0.4871669081332931,0.6123491748977354
+full,Common support,empowerment,women_15_24,NA,Decision-making index (SD),0.055262411209572954,0.4554223220722027,0.512350112331228,0.6262056928492787
+full,Common support,empowerment,women_15_24,NA,Barrier index (SD),0.0669380111282306,0.1467615564669307,0.4871669081332931,0.6123491748977354
+full,Common support,empowerment,women_15_24,NA,Education (years),-0.13653709338349543,0.23996840497672892,0.495455436721145,0.6123491748977354
+full,Common support,empowerment,women_15_24,NA,Water time (minutes),0.45798524223527726,0.3965910556720962,0.5099027858641237,0.6123491748977354
+full,Common support,empowerment,women_15_24,NA,Water within 30 min (share),-0.005841630737922717,0.33030362448076334,0.495455436721145,0.6123491748977354
+full,Nearest neighbour 3:1,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,0.3700757772973207,0.7347931620117689,0.8683919187411815,0.9837173519154325
+full,Nearest neighbour 3:1,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,2.775960617410753,0.057607638591408175,0.37444965084415316,0.31684201225274494
+full,Nearest neighbour 3:1,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-16.60881496171649,0.28644575919761084,0.681062252713356,0.7334516567682294
+full,Nearest neighbour 3:1,health,children/mothers,5,Home births conducted by skilled health personnel,0.32261403651116155,0.3667258283841147,0.681062252713356,0.7334516567682294
+full,Nearest neighbour 3:1,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-4.288708113535291,0.008768932022979861,0.1139961162987382,0.19291650450555695
+full,Nearest neighbour 3:1,health,children/mothers,7,Children under 5 who are underweight,-0.31101682966208266,0.7038834711589967,0.8683919187411815,0.9837173519154325
+full,Nearest neighbour 3:1,health,children/mothers,8.2,Children with diarrhoea who received ORS,1.7555511639554555,0.49860679276750797,0.8102360382472005,0.8823361117514493
+full,Nearest neighbour 3:1,health,children/mothers,8.3,Children with diarrhoea who received zinc,2.1305167183331744,0.3583539559466261,0.681062252713356,0.7334516567682294
+full,Nearest neighbour 3:1,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,0.261057955468117,0.8942885017413023,0.9688125435530773,0.9837173519154325
+full,Nearest neighbour 3:1,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,0.01027262099657868,0.9903249653176798,0.9903249653176798,0.9903249653176798
+full,Nearest neighbour 3:1,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,1.8280399321534144,0.346951495867331,0.681062252713356,0.7334516567682294
+full,Nearest neighbour 3:1,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),1.585449641776061,0.3428510071210529,0.681062252713356,0.7334516567682294
+full,Nearest neighbour 3:1,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),0.7827354039627149,0.5614866165691041,0.8110362239331504,0.8823361117514493
+full,Nearest neighbour 3:1,empowerment,married_15_49,NA,Decision-making index (SD),-0.005933606129892023,0.8481485334352339,0.9870356900180128,0.9837173519154325
+full,Nearest neighbour 3:1,empowerment,married_15_49,NA,Barrier index (SD),-0.00913923465210358,0.7932196966272294,0.9870356900180128,0.9837173519154325
+full,Nearest neighbour 3:1,empowerment,married_15_49,NA,Water time (minutes),-0.7283362733847012,0.026603190150024488,0.21659566079434053,0.29263509165026935
+full,Nearest neighbour 3:1,empowerment,married_15_49,NA,Water within 30 min (share),0.004250431579818494,0.1958869537252173,0.4407456458817389,0.7182521636591301
+full,Nearest neighbour 3:1,empowerment,women_15_24,NA,Decision-making index (SD),0.007399325757179509,0.8887622356056473,0.9870356900180128,0.9837173519154325
+full,Nearest neighbour 3:1,empowerment,women_15_24,NA,Barrier index (SD),-5.647383835761892e-4,0.9870356900180128,0.9870356900180128,0.9903249653176798
+full,Nearest neighbour 3:1,empowerment,women_15_24,NA,Education (years),0.04326479702864713,0.5433781297749427,0.9780806335948969,0.8823361117514493
+full,Nearest neighbour 3:1,empowerment,women_15_24,NA,Water time (minutes),-0.6939700325821311,0.048132369065409006,0.21659566079434053,0.31684201225274494
+full,Nearest neighbour 3:1,empowerment,women_15_24,NA,Water within 30 min (share),0.005292541785767105,0.1363541593225626,0.4090624779676878,0.5999583010192755
+full,Genetic 3:1,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,0.05418990536408781,0.9440210165369535,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,1.7933226741854367,0.18333905677945694,0.9400076871969544,0.7448394608922388
+full,Genetic 3:1,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-13.958627395560464,0.40906554136229434,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,5,Home births conducted by skilled health personnel,0.2597637060253275,0.501672836130908,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-4.921945901751721,0.0035598771180535027,0.046278402534695534,0.07831729659717705
+full,Genetic 3:1,health,children/mothers,7,Children under 5 who are underweight,-0.79323655811175,0.21692485089160488,0.9400076871969544,0.7448394608922388
+full,Genetic 3:1,health,children/mothers,8.2,Children with diarrhoea who received ORS,-0.3031243579589411,0.9020826255326767,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,8.3,Children with diarrhoea who received zinc,2.040738161210273,0.36536622606506564,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,0.023865737380581568,0.9897786349865929,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-0.33655051750811904,0.6731206658071957,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,0.11222569967453241,0.9595825706583785,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-0.18436801425815344,0.9062137923758391,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-0.24885878179141332,0.8648037244853455,0.9897786349865929,0.9992321616547686
+full,Genetic 3:1,empowerment,married_15_49,NA,Decision-making index (SD),-0.012932532961693123,0.6802996971008123,0.9992321616547686,0.9992321616547686
+full,Genetic 3:1,empowerment,married_15_49,NA,Barrier index (SD),-0.0047628534689145,0.8753498993498889,0.9992321616547686,0.9992321616547686
+full,Genetic 3:1,empowerment,married_15_49,NA,Water time (minutes),-0.7471480820753073,0.013700193055074151,0.09345369884948612,0.15070212360581567
+full,Genetic 3:1,empowerment,married_15_49,NA,Water within 30 min (share),0.00388993678737563,0.23699437392025782,0.5332373413205801,0.7448394608922388
+full,Genetic 3:1,empowerment,women_15_24,NA,Decision-making index (SD),-0.006442314419382841,0.8914255877277241,0.9992321616547686,0.9992321616547686
+full,Genetic 3:1,empowerment,women_15_24,NA,Barrier index (SD),3.2024483672185816e-5,0.9992321616547686,0.9992321616547686,0.9992321616547686
+full,Genetic 3:1,empowerment,women_15_24,NA,Education (years),0.003700737493801485,0.9553026960050051,0.9992321616547686,0.9992321616547686
+full,Genetic 3:1,empowerment,women_15_24,NA,Water time (minutes),-0.7603436985435358,0.020767488633219137,0.09345369884948612,0.152294916643607
+full,Genetic 3:1,empowerment,women_15_24,NA,Water within 30 min (share),0.005275750144684717,0.16491368317975738,0.4947410495392721,0.7448394608922388
+precovid,Common support,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,1.7639947675623744,0.3599828704330752,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,3.049451454098205,0.1415689489661514,0.7676520213172958,0.7786292193138328
+precovid,Common support,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",27.962802123027068,0.49511941831923345,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,5,Home births conducted by skilled health personnel,-0.24959086339743203,0.5725152837223102,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,4.1901347421403266,0.31265660248322025,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,7,Children under 5 who are underweight,-4.395230493784314,0.03925827934526019,0.5103576314883824,0.7286230578082119
+precovid,Common support,health,children/mothers,8.2,Children with diarrhoea who received ORS,0.1677859566447958,0.9780035917801587,0.9780035917801587,0.9780035917801587
+precovid,Common support,health,children/mothers,8.3,Children with diarrhoea who received zinc,3.2896743496503698,0.6605489117825407,0.7806487139248209,0.854828003483288
+precovid,Common support,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,1.556634458195926,0.5769351508173814,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-1.940376333430794,0.22989914783150814,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,-1.7030801062009069,0.5905015548594583,0.7676520213172958,0.8351793942137529
+precovid,Common support,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),-0.403122463821505,0.9162847926701037,0.9780035917801587,0.9780035917801587
+precovid,Common support,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.4450817124254265,0.5269543685331519,0.7676520213172958,0.8351793942137529
+precovid,Common support,empowerment,married_15_49,NA,Decision-making index (SD),-0.10032183801769302,0.09935768970111981,0.44710960365503916,0.7286230578082119
+precovid,Common support,empowerment,married_15_49,NA,Barrier index (SD),0.041143499236961735,0.5672438383226415,0.8575403246175776,0.8351793942137529
+precovid,Common support,empowerment,married_15_49,NA,Water time (minutes),-0.04047995175873796,0.9387392290249983,0.9387392290249983,0.9780035917801587
+precovid,Common support,empowerment,married_15_49,NA,Water within 30 min (share),-0.002529752902703589,0.6074031957918202,0.8575403246175776,0.8351793942137529
+precovid,Common support,empowerment,women_15_24,NA,Decision-making index (SD),-0.1645149566861618,0.06894463635934837,0.44710960365503916,0.7286230578082119
+precovid,Common support,empowerment,women_15_24,NA,Barrier index (SD),0.08794013079868264,0.24308341507636516,0.7292502452290954,0.8351793942137529
+precovid,Common support,empowerment,women_15_24,NA,Education (years),0.04034796792787873,0.7127083001681199,0.8575403246175776,0.8710879224277022
+precovid,Common support,empowerment,women_15_24,NA,Water time (minutes),0.16046745207478988,0.7622580663267357,0.8575403246175776,0.8826146031151676
+precovid,Common support,empowerment,women_15_24,NA,Water within 30 min (share),-0.004377248646684726,0.46449613001133516,0.8575403246175776,0.8351793942137529
+precovid,Nearest neighbour 3:1,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,0.5419753950384273,0.7397657753819018,0.8594966390076785,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,5.979743011273058,0.006808791470530198,0.06075501751644731,0.10281618348937237
+precovid,Nearest neighbour 3:1,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-7.950969095805868,0.7933815129301648,0.8594966390076785,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,5,Home births conducted by skilled health personnel,-0.07366141330674968,0.9017649695118057,0.9017649695118057,0.9017649695118057
+precovid,Nearest neighbour 3:1,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-0.8157488105401999,0.7589077542824179,0.8594966390076785,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,7,Children under 5 who are underweight,-2.29911927318274,0.03292098118088407,0.14265758511716428,0.24142052865981647
+precovid,Nearest neighbour 3:1,health,children/mothers,8.2,Children with diarrhoea who received ORS,4.121620806509379,0.3964739466725149,0.7363087581060991,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,8.3,Children with diarrhoea who received zinc,5.039323545002971,0.260837735202083,0.7363087581060991,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,6.326332973587789,0.009346925771761124,0.06075501751644731,0.10281618348937237
+precovid,Nearest neighbour 3:1,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-0.4404569327138272,0.7531357597854222,0.8594966390076785,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,1.128961946731032,0.7213960908144637,0.8594966390076785,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),1.8469166303135125,0.343279455529205,0.7363087581060991,0.8311615849744584
+precovid,Nearest neighbour 3:1,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-1.3052617170415686,0.35686592597094635,0.7363087581060991,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,married_15_49,NA,Decision-making index (SD),-0.017895555027019866,0.7469503325565432,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,married_15_49,NA,Barrier index (SD),0.021932884950109307,0.6397187106505262,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,married_15_49,NA,Water time (minutes),0.1392931386844414,0.7749298116820251,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,married_15_49,NA,Water within 30 min (share),-0.0015962253336822432,0.7214168881272461,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,women_15_24,NA,Decision-making index (SD),-0.0797738539291645,0.3846379037660477,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,women_15_24,NA,Barrier index (SD),0.06354405535113886,0.1703866092860509,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,women_15_24,NA,Education (years),0.060987106086070254,0.5973517372147903,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,women_15_24,NA,Water time (minutes),0.3089841241420623,0.5635406046815321,0.7749298116820251,0.8311615849744584
+precovid,Nearest neighbour 3:1,empowerment,women_15_24,NA,Water within 30 min (share),-0.0015371438622067413,0.7656410253245954,0.7749298116820251,0.8311615849744584
+precovid,Genetic 3:1,health,children/mothers,1.3,Registered pregnancies with a Mother and Child Protection card,0.22577285692059404,0.8655091695955802,0.8655091695955802,0.8655091695955802
+precovid,Genetic 3:1,health,children/mothers,2,Mothers who consumed IFA for 100 days or more in pregnancy,3.38100310635936,0.16854795606566053,0.4194727218413276,0.5770976911508477
+precovid,Genetic 3:1,health,children/mothers,4.1,"Sex ratio at birth, children born in the last five years",-12.954066886543467,0.6075698137617666,0.7898407578902965,0.8260072881895212
+precovid,Genetic 3:1,health,children/mothers,5,Home births conducted by skilled health personnel,0.2479786686474249,0.6758241448823354,0.7987012621336692,0.8260072881895212
+precovid,Genetic 3:1,health,children/mothers,6.1,Children under 3 breastfed within one hour of birth,-3.679341257365873,0.13284369524747022,0.4194727218413276,0.5770976911508477
+precovid,Genetic 3:1,health,children/mothers,7,Children under 5 who are underweight,-2.834759380603783,0.011990599341732902,0.07793889572126386,0.13189659275906193
+precovid,Genetic 3:1,health,children/mothers,8.2,Children with diarrhoea who received ORS,2.872750043327291,0.5738106741059719,0.7898407578902965,0.8260072881895212
+precovid,Genetic 3:1,health,children/mothers,8.3,Children with diarrhoea who received zinc,5.779647823010089,0.18103562715379917,0.4194727218413276,0.5770976911508477
+precovid,Genetic 3:1,health,children/mothers,8.4,Children with fever or ARI taken to a facility or provider,7.162682678151861,0.009647604186345879,0.07793889572126386,0.13189659275906193
+precovid,Genetic 3:1,health,children/mothers,10.1,Breastfed children 6-23 months with an adequate diet,-0.6141792881316894,0.5855803603071138,0.7898407578902965,0.8260072881895212
+precovid,Genetic 3:1,health,children/mothers,10.2,Non-breastfed children 6-23 months with an adequate diet,0.8164209931055288,0.816066367184805,0.8655091695955802,0.8549266703840814
+precovid,Genetic 3:1,health,children/mothers,11a,Children 12-23 months fully vaccinated (card or recall),1.2907044693682233,0.5886879714609926,0.7898407578902965,0.8260072881895212
+precovid,Genetic 3:1,health,children/mothers,11b,Children 12-23 months fully vaccinated (card only),-2.489378850248762,0.19360279469599737,0.4194727218413276,0.5770976911508477
+precovid,Genetic 3:1,empowerment,married_15_49,NA,Decision-making index (SD),-0.01229670602240289,0.8000170182984142,0.8000170182984142,0.8549266703840814
+precovid,Genetic 3:1,empowerment,married_15_49,NA,Barrier index (SD),0.04635290939849416,0.20985370587303553,0.8000170182984142,0.5770976911508477
+precovid,Genetic 3:1,empowerment,married_15_49,NA,Water time (minutes),0.24404791461141304,0.6146746102863614,0.8000170182984142,0.8260072881895212
+precovid,Genetic 3:1,empowerment,married_15_49,NA,Water within 30 min (share),-0.002926590281382971,0.5085415497902592,0.8000170182984142,0.8260072881895212
+precovid,Genetic 3:1,empowerment,women_15_24,NA,Decision-making index (SD),-0.07852701217178723,0.3275767189636686,0.8000170182984142,0.8007430908000788
+precovid,Genetic 3:1,empowerment,women_15_24,NA,Barrier index (SD),0.07481450042689874,0.06299375755233046,0.5669438179709742,0.4619542220504233
+precovid,Genetic 3:1,empowerment,women_15_24,NA,Education (years),0.029445610374146173,0.7594680324919557,0.8000170182984142,0.8549266703840814
+precovid,Genetic 3:1,empowerment,women_15_24,NA,Water time (minutes),0.2935740737462004,0.5882636030585067,0.8000170182984142,0.8260072881895212
+precovid,Genetic 3:1,empowerment,women_15_24,NA,Water within 30 min (share),-0.0021877148219507946,0.6735041374320427,0.8000170182984142,0.8260072881895212

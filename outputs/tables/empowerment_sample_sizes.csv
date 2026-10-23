@@ -1,0 +1,18 @@
+block,step,definition,nfhs4,nfhs5,total
+All women,Interviewed women,Every woman in the women's file (FR339 / FR375 totals),699686,724115,1423801
+All women,In the 582 sample districts,Districts with the same boundaries in both rounds (Stage 05),638488,596917,1235405
+Decision-making,Eligible,Currently married and in a state-module household,86811,76910,163721
+Decision-making,Answered: decides_own_health,Valid answer to this item (all India),86811,76910,163721
+Decision-making,Answered: decides_purchases,Valid answer to this item (all India),86811,76910,163721
+Decision-making,Answered: decides_visits,Valid answer to this item (all India),86811,76910,163721
+Decision-making,Answered: decides_husband_earn,Valid answer to this item (all India),84860,75092,159952
+Decision-making,Answered all four items,"Index sample: PCA, NFHS-4 weights, equal-weighted and Anderson (all India)",84860,75092,159952
+Decision-making,... in the 582 districts,Index sample in the sample districts,77231,61828,139059
+Decision-making,... married women 15-49,Estimation population: married women aged 15-49,77231,61828,139059
+Decision-making,... women 15-24,"Estimation population: women aged 15-24 (all of them married, as the items require)",13782,9715,23497
+Barriers,Answered all four items,Asked of every woman (all India),699686,724115,1423801
+Barriers,... married women 15-49,Estimation population in the 582 districts,456260,422479,878739
+Barriers,... women 15-24,Estimation population in the 582 districts,226368,200054,426422
+Education,... women 15-24,"Years of education known (v133 not 97), 582 districts",226368,200054,426422
+Water,... married women 15-49,"Water time known (not 997/998), 582 districts",439130,409190,848320
+Water,... women 15-24,"Water time known (not 997/998), 582 districts",215455,192125,407580

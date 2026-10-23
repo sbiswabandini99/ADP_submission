@@ -1,0 +1,24 @@
+state,district,survey_round,distcode,match_type,note
+Andhra Pradesh,Y.S.R. Kadapa,nfhs4,551,spelling,NFHS name 'y.s.r.'
+Arunachal Pradesh,Namsai,nfhs4,259,created after 2011,"Namsai carved from Lohit in 2014; NFHS-4 has only Lohit (259), which also includes non-AD area"
+Chhattisgarh,Dantewada,nfhs4,416,spelling,NFHS name 'dakshin bastar dantewada'; the 2011 district also contains Sukma (also an AD)
+Chhattisgarh,Kanker,nfhs4,413,spelling,NFHS name 'uttar bastar kanker'
+Chhattisgarh,Kondagaon,nfhs4,414,created after 2011,"Kondagaon carved from Bastar in 2012; NFHS-4 has only Bastar (414), which is itself an AD"
+Chhattisgarh,Sukma,nfhs4,416,created after 2011,"Sukma carved from Dantewada in 2012; NFHS-4 has only Dantewada (416), which is itself an AD"
+Madhya Pradesh,Khandwa,nfhs4,466,spelling,NFHS name 'khandwa (east nimar)'
+Rajasthan,Dholpur,nfhs4,106,spelling,NFHS name 'dhaulpur'
+Sikkim,Soreng,nfhs4,242,renamed,2018 AD 'West Sikkim' = NFHS 'west district'
+Telangana,Asifabad,nfhs4,532,created after 2011,"Komaram Bheem Asifabad carved from Adilabad in 2016; NFHS-4 has only Adilabad (532), which also includes non-AD area"
+Telangana,Bhupalpally,nfhs4,540,created after 2011,"Jayashankar Bhupalpally carved from Warangal in 2016; NFHS-4 has only Warangal (540), which also includes non-AD area"
+Telangana,Bhadradri-Kothagudem,nfhs4,541,created after 2011,"Bhadradri Kothagudem carved from Khammam in 2016; NFHS-4 has only Khammam (541), which also includes non-AD area"
+Uttarakhand,Haridwar,nfhs4,68,spelling,NFHS name 'hardwar'
+Andhra Pradesh,Y.S.R. Kadapa,nfhs5,551,spelling,NFHS name 'y.s.r.'
+Chhattisgarh,Kanker,nfhs5,413,spelling,NFHS name 'uttar bastar kanker'
+Chhattisgarh,Kondagaon,nfhs5,831,spelling,NFHS name 'kodagaon'
+Madhya Pradesh,Khandwa,nfhs5,466,spelling,NFHS name 'khandwa (east nimar)'
+Rajasthan,Dholpur,nfhs5,106,spelling,NFHS name 'dhaulpur'
+Sikkim,Soreng,nfhs5,242,renamed,2018 AD 'West Sikkim' = NFHS 'west district'
+Telangana,Asifabad,nfhs5,893,spelling,NFHS name 'komaram bheem asifabad'
+Telangana,Bhupalpally,nfhs5,888,spelling,NFHS name 'jayashankar bhupalapally'
+Telangana,Bhadradri-Kothagudem,nfhs5,884,exact,"NFHS name 'bhadradri kothagudem' (Khammam, 892, is the non-AD remainder)"
+Uttarakhand,Haridwar,nfhs5,68,spelling,NFHS name 'hardwar'

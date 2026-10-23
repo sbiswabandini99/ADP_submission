@@ -1,0 +1,4 @@
+version,raw_did
+uncapped,-1.208
+capped at 120,-1.204
+above 120 dropped,-1.197

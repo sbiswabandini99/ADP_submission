@@ -1,0 +1,9 @@
+item,loading,mean,sd,n,index
+decides_own_health,0.504,0.788,0.408,159952,decision
+decides_purchases,0.513,0.772,0.42,159952,decision
+decides_visits,0.499,0.787,0.409,159952,decision
+decides_husband_earn,0.483,0.75,0.433,159952,decision
+barrier_permission,0.486,0.154,0.361,1423801,barrier
+barrier_money,0.512,0.239,0.427,1423801,barrier
+barrier_distance,0.512,0.289,0.453,1423801,barrier
+barrier_alone,0.489,0.191,0.393,1423801,barrier

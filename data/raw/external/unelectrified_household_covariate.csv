@@ -1,0 +1,638 @@
+state,district,total_households,balance_unelectrified_hh,pct_unelectrified,flag_out_of_range
+Andhra Pradesh,East Godavari,1860516,40375,2.1701,FALSE
+Andhra Pradesh,West Godavari,1137681,35866,3.1526,FALSE
+Andhra Pradesh,Guntur,966913,1526,0.1578,FALSE
+Andhra Pradesh,Krishna,946870,135,0.0143,FALSE
+Andhra Pradesh,Chittoor,892179,2300,0.2578,FALSE
+Andhra Pradesh,Anantapur,818514,9031,1.1033,FALSE
+Andhra Pradesh,Srikakulam,789982,13944,1.7651,FALSE
+Andhra Pradesh,Prakasam,777095,1798,0.2314,FALSE
+Andhra Pradesh,Visakhapatnam,766059,36238,4.7304,FALSE
+Andhra Pradesh,Kurnool,729882,5368,0.7355,FALSE
+Andhra Pradesh,Sri Potti Sriramulu Nellore,667843,651,0.0975,FALSE
+Andhra Pradesh,Vizianagaram,576752,10364,1.797,FALSE
+Andhra Pradesh,Kadapa (YSR),512419,4037,0.7878,FALSE
+Kerala,Malappuram,1052325,0,0,FALSE
+Kerala,Ernakulam,1031733,0,0,FALSE
+Kerala,Thiruvananthapuram,933744,0,0,FALSE
+Kerala,Thrissur,850342,0,0,FALSE
+Kerala,Kollam,847374,0,0,FALSE
+Kerala,Kozhikode,832407,0,0,FALSE
+Kerala,Palakkad,769366,0,0,FALSE
+Kerala,Alappuzha,746042,0,0,FALSE
+Kerala,Kannur,689108,0,0,FALSE
+Kerala,Kottayam,578435,0,0,FALSE
+Kerala,Pathanamthitta,470877,0,0,FALSE
+Kerala,Idukki,443983,0,0,FALSE
+Kerala,Kasaragod,284104,0,0,FALSE
+Kerala,Wayanad,283192,0,0,FALSE
+Arunachal Pradesh,Papum Pare,48085,3607,7.5013,FALSE
+Arunachal Pradesh,Changlang,29622,6893,23.2699,FALSE
+Arunachal Pradesh,Tirap,28243,4665,16.5174,FALSE
+Arunachal Pradesh,Lohit_Namsai,27268,7837,28.7406,FALSE
+Arunachal Pradesh,West Siang,25840,1625,6.2887,FALSE
+Arunachal Pradesh,East Siang,23724,3647,15.3726,FALSE
+Arunachal Pradesh,West Kameng District,21290,851,3.9972,FALSE
+Arunachal Pradesh,Lower Subansiri,18564,2098,11.3014,FALSE
+Arunachal Pradesh,Upper Subansiri,17593,2836,16.12,FALSE
+Arunachal Pradesh,Kurung Kumey,15462,3793,24.5311,FALSE
+Arunachal Pradesh,East Kameng District,11611,5082,43.7688,FALSE
+Arunachal Pradesh,Lower Dibang Valley,11402,2788,24.4519,FALSE
+Arunachal Pradesh,Tawang District,9548,308,3.2258,FALSE
+Arunachal Pradesh,Upper Siang,7226,158,2.1865,FALSE
+Arunachal Pradesh,Anjaw,5261,684,13.0013,FALSE
+Arunachal Pradesh,Dibang Valley,1622,217,13.3785,FALSE
+Assam,Nagaon,574642,92776,16.145,FALSE
+Assam,Dhubri,502746,115114,22.897,FALSE
+Assam,Barpeta,351423,104576,29.7579,FALSE
+Assam,Kamrup Metropolitan,350006,8591,2.4545,FALSE
+Assam,Dibrugarh,320172,57340,17.9091,FALSE
+Assam,Cachar,316372,85382,26.9878,FALSE
+Assam,Kamrup,308481,68809,22.3057,FALSE
+Assam,Tinsukia,301537,78590,26.0631,FALSE
+Assam,Jorhat,286497,38666,13.4961,FALSE
+Assam,Goalpara,284105,87166,30.6809,FALSE
+Assam,Karbi Anglong,272840,54642,20.0271,FALSE
+Assam,Sonitpur,265680,63245,23.805,FALSE
+Assam,Karimganj,254307,55815,21.9479,FALSE
+Assam,Golaghat,252456,37978,15.0434,FALSE
+Assam,Marigaon,241469,46957,19.4464,FALSE
+Assam,Sibsagar,234026,50193,21.4476,FALSE
+Assam,Lakhimpur,223826,64271,28.7147,FALSE
+Assam,Udalguri,214101,62289,29.0933,FALSE
+Assam,Darrang,211606,69100,32.655,FALSE
+Assam,Baksa,202607,74259,36.6517,FALSE
+Assam,Kokrajhar,201408,57163,28.3817,FALSE
+Assam,Bongaigaon,169360,29137,17.2042,FALSE
+Assam,Nalbari,160132,39294,24.5385,FALSE
+Assam,Dhemaji,146171,50742,34.7141,FALSE
+Assam,Hailakandi,145629,60463,41.5185,FALSE
+Assam,Chirang,112046,38588,34.4394,FALSE
+Assam,Dima Hasao,62434,17475,27.9896,FALSE
+Bihar,Patna,933212,62016,6.6454,FALSE
+Bihar,Muzaffarpur,624125,65930,10.5636,FALSE
+Bihar,Samastipur,615561,203751,33.1001,FALSE
+Bihar,Madhubani,599213,110711,18.4761,FALSE
+Bihar,Purba Champaran,596357,189512,31.7783,FALSE
+Bihar,Darbhanga,586627,144588,24.6473,FALSE
+Bihar,Pashchim Champaran,557221,124130,22.2766,FALSE
+Bihar,Gaya,543193,161479,29.7277,FALSE
+Bihar,Saran,483219,108275,22.407,FALSE
+Bihar,Begusarai,469941,85128,18.1146,FALSE
+Bihar,Nalanda,451934,46958,10.3905,FALSE
+Bihar,Purnia,451786,118643,26.2609,FALSE
+Bihar,Vaishali,421030,72348,17.1836,FALSE
+Bihar,Bhagalpur,420548,144501,34.3602,FALSE
+Bihar,Araria,413131,170052,41.1618,FALSE
+Bihar,Siwan,389867,105870,27.1554,FALSE
+Bihar,Sitamarhi,379932,63200,16.6346,FALSE
+Bihar,Gopalganj,378322,64805,17.1296,FALSE
+Bihar,Rohtas,354982,47922,13.4998,FALSE
+Bihar,Katihar,347597,156033,44.8891,FALSE
+Bihar,Aurangabad,346081,136274,39.3763,FALSE
+Bihar,Bhojpur,343398,68394,19.9168,FALSE
+Bihar,Supaul,340477,84722,24.8833,FALSE
+Bihar,Nawada,336388,157082,46.6967,FALSE
+Bihar,Kishanganj,295348,41409,14.0204,FALSE
+Bihar,Madhepura,283836,53722,18.9271,FALSE
+Bihar,Banka,266191,86992,32.6803,FALSE
+Bihar,Jamui,244430,83265,34.065,FALSE
+Bihar,Saharsa,244389,39583,16.1967,FALSE
+Bihar,Khagaria,219013,64869,29.6188,FALSE
+Bihar,Buxar,214760,48145,22.418,FALSE
+Bihar,Munger,205281,18835,9.1752,FALSE
+Bihar,Kaimur (Bhabua),155507,42650,27.4264,FALSE
+Bihar,Lakhisarai,106891,17287,16.1725,FALSE
+Bihar,Jehanabad,100814,19447,19.29,FALSE
+Bihar,Sheikhpura,87312,16760,19.1955,FALSE
+Bihar,Sheohar,83970,11492,13.6858,FALSE
+Bihar,Arwal,81238,22261,27.4022,FALSE
+Chhattisgarh,Raipur,871340,12067,1.3849,FALSE
+Chhattisgarh,Bilaspur,507718,48254,9.5041,FALSE
+Chhattisgarh,Durg,376340,12965,3.445,FALSE
+Chhattisgarh,Raigarh,336143,23119,6.8777,FALSE
+Chhattisgarh,Janjgir - Champa,327429,23893,7.2972,FALSE
+Chhattisgarh,Korba,251991,28930,11.4806,FALSE
+Chhattisgarh,Mungeli,226442,24536,10.8354,FALSE
+Chhattisgarh,Surguja,215356,42123,19.5597,FALSE
+Chhattisgarh,Rajnandgaon,193803,23404,12.0762,FALSE
+Chhattisgarh,Mahasamund,189297,8856,4.6784,FALSE
+Chhattisgarh,Balod,186239,13198,7.0866,FALSE
+Chhattisgarh,Baloda Bajar,183994,38364,20.8507,FALSE
+Chhattisgarh,Bastar,170414,57942,34.0007,FALSE
+Chhattisgarh,Bemetara,167506,28943,17.2788,FALSE
+Chhattisgarh,Surajpur,162115,34873,21.5113,FALSE
+Chhattisgarh,Jashpur,159603,55277,34.6341,FALSE
+Chhattisgarh,Dhamtari,154625,5898,3.8144,FALSE
+Chhattisgarh,Kabeerdham,146127,27793,19.0198,FALSE
+Chhattisgarh,Kanker,140869,21157,15.0189,FALSE
+Chhattisgarh,Balrampur,131417,40844,31.0797,FALSE
+Chhattisgarh,Kondagaon,123766,18775,15.1698,FALSE
+Chhattisgarh,Koriya,116925,22822,19.5185,FALSE
+Chhattisgarh,Bijapur,99702,24308,24.3807,FALSE
+Chhattisgarh,Gariyabandh,97679,29979,30.6913,FALSE
+Chhattisgarh,Dantewada,70299,25462,36.2196,FALSE
+Chhattisgarh,Sukma,43843,23225,52.9731,FALSE
+Chhattisgarh,Narayanpur,32527,10854,33.3692,FALSE
+Goa,North Goa,74704,0,0,FALSE
+Goa,South Goa,53504,0,0,FALSE
+Gujarat,Surat,1294912,9720,0.7506,FALSE
+Gujarat,Rajkot,927687,1358,0.1464,FALSE
+Gujarat,Vadodara,892755,6520,0.7303,FALSE
+Gujarat,Bhavnagar,598125,464,0.0776,FALSE
+Gujarat,Junagadh,585356,1009,0.1724,FALSE
+Gujarat,Banaskantha,559157,1449,0.2591,FALSE
+Gujarat,Sabarkantha,518845,1749,0.3371,FALSE
+Gujarat,Jamnagar,517529,793,0.1532,FALSE
+Gujarat,Valsad,475950,0,0,FALSE
+Gujarat,Ahmedabad,449027,1593,0.3548,FALSE
+Gujarat,Anand,436674,1319,0.3021,FALSE
+Gujarat,Mahesana,436225,4719,1.0818,FALSE
+Gujarat,Kheda,402095,709,0.1763,FALSE
+Gujarat,Panchmahals,395949,554,0.1399,FALSE
+Gujarat,Navsari,365123,0,0,FALSE
+Gujarat,Bharuch,351988,1104,0.3136,FALSE
+Gujarat,Amreli,329561,1215,0.3687,FALSE
+Gujarat,Kachchh,282476,367,0.1299,FALSE
+Gujarat,Gandhinagar,281853,2459,0.8724,FALSE
+Gujarat,Patan,272915,1526,0.5591,FALSE
+Gujarat,Surendranagar,261420,602,0.2303,FALSE
+Gujarat,Dahod,259480,295,0.1137,FALSE
+Gujarat,Tapi,175894,1325,0.7533,FALSE
+Gujarat,Porbandar,133726,122,0.0912,FALSE
+Gujarat,Narmada,132097,346,0.2619,FALSE
+Gujarat,The Dangs,54024,0,0,FALSE
+Gujarat,Mahisagar,18395,0,0,FALSE
+Gujarat,Chhotaudepur,5294,0,0,FALSE
+Haryana,Hisar,269809,134,0.0497,FALSE
+Haryana,Yamunanagar,240651,83,0.0345,FALSE
+Haryana,Mewat,235009,48769,20.752,FALSE
+Haryana,Bhiwani,227772,579,0.2542,FALSE
+Haryana,Jind,214434,291,0.1357,FALSE
+Haryana,Karnal,208354,737,0.3537,FALSE
+Haryana,Sirsa,201238,843,0.4189,FALSE
+Haryana,Sonipat,200314,682,0.3405,FALSE
+Haryana,Panipat,173513,254,0.1464,FALSE
+Haryana,Kaithal,165815,451,0.272,FALSE
+Haryana,Mahendragarh,165095,0,0,FALSE
+Haryana,Rewari,155627,0,0,FALSE
+Haryana,Jhajjar,155611,64,0.0411,FALSE
+Haryana,Ambala,145455,110,0.0756,FALSE
+Haryana,Fatehabad,138768,506,0.3646,FALSE
+Haryana,Palwal,130683,524,0.401,FALSE
+Haryana,Kurukshetra,119641,396,0.331,FALSE
+Haryana,Rohtak,117655,138,0.1173,FALSE
+Haryana,Gurgaon,86796,13,0.015,FALSE
+Haryana,Faridabad,64450,59,0.0915,FALSE
+Haryana,Panchkula,53282,48,0.0901,FALSE
+Himachal Pradesh,Kangra,534956,1737,0.3247,FALSE
+Himachal Pradesh,Shimla,286446,1475,0.5149,FALSE
+Himachal Pradesh,Mandi,198852,1320,0.6638,FALSE
+Himachal Pradesh,Solan,155979,1068,0.6847,FALSE
+Himachal Pradesh,Una,126164,2522,1.999,FALSE
+Himachal Pradesh,Hamirpur,122956,1873,1.5233,FALSE
+Himachal Pradesh,Sirmaur,111239,959,0.8621,FALSE
+Himachal Pradesh,Kullu,107791,760,0.7051,FALSE
+Himachal Pradesh,Chamba,102281,583,0.57,FALSE
+Himachal Pradesh,Bilaspur,82217,362,0.4403,FALSE
+Himachal Pradesh,Kinnaur,20360,122,0.5992,FALSE
+Himachal Pradesh,Lahul & Spiti,6428,110,1.7113,FALSE
+Jammu & Kashmir,Jammu,375176,19134,5.1,FALSE
+Jammu & Kashmir,Srinagar,204533,3546,1.7337,FALSE
+Jammu & Kashmir,Anantnag,168023,19332,11.5056,FALSE
+Jammu & Kashmir,Bandipore,152974,8174,5.3434,FALSE
+Jammu & Kashmir,Rajauri,150242,20559,13.6839,FALSE
+Jammu & Kashmir,Kathua,142548,12745,8.9408,FALSE
+Jammu & Kashmir,Baramula,129447,10733,8.2914,FALSE
+Jammu & Kashmir,Punch,123473,23389,18.9426,FALSE
+Jammu & Kashmir,Udhampur,116389,23671,20.3378,FALSE
+Jammu & Kashmir,Kupwara,113578,16258,14.3144,FALSE
+Jammu & Kashmir,Doda,100569,27193,27.0391,FALSE
+Jammu & Kashmir,Pulwama,95164,16343,17.1735,FALSE
+Jammu & Kashmir,Kulgam,81746,18858,23.069,FALSE
+Jammu & Kashmir,Samba,77864,11983,15.3897,FALSE
+Jammu & Kashmir,Badgam,72227,12900,17.8604,FALSE
+Jammu & Kashmir,Reasi,68413,23399,34.2026,FALSE
+Jammu & Kashmir,Ramban,67900,18385,27.0766,FALSE
+Jammu & Kashmir,Shopian,56152,21319,37.9666,FALSE
+Jammu & Kashmir,Kishtwar,55697,37812,67.8888,FALSE
+Jammu & Kashmir,Ganderbal,50200,22473,44.7669,FALSE
+Jammu & Kashmir,Leh (Ladakh),25692,7607,29.6084,FALSE
+Jammu & Kashmir,Kargil,23147,2480,10.7141,FALSE
+Jharkhand,Ranchi,611793,95375,15.5894,FALSE
+Jharkhand,Purbi Singhbhum,486307,113093,23.2555,FALSE
+Jharkhand,Dhanbad,478127,22777,4.7638,FALSE
+Jharkhand,Giridih,450210,142849,31.7294,FALSE
+Jharkhand,Palamu,421922,214066,50.7359,FALSE
+Jharkhand,Dumka,344351,34400,9.9898,FALSE
+Jharkhand,Pashchimi Singhbhum,336530,31640,9.4018,FALSE
+Jharkhand,Deoghar,330979,43105,13.0235,FALSE
+Jharkhand,Hazaribagh,327747,63976,19.5199,FALSE
+Jharkhand,Godda,295089,73388,24.8698,FALSE
+Jharkhand,Sarikela-Kharswana,279805,41284,14.7546,FALSE
+Jharkhand,Bokaro,279450,51587,18.4602,FALSE
+Jharkhand,Garhwa,251425,70960,28.2231,FALSE
+Jharkhand,Sahibganj,249348,41162,16.5079,FALSE
+Jharkhand,Chatra,231528,67889,29.3222,FALSE
+Jharkhand,Pakaur,204775,24172,11.8042,FALSE
+Jharkhand,Gumla,200151,35245,17.6092,FALSE
+Jharkhand,Jamtara,183863,35524,19.3209,FALSE
+Jharkhand,Latehar,144959,39706,27.3912,FALSE
+Jharkhand,Simdega,144438,19600,13.5698,FALSE
+Jharkhand,Ramgarh,134394,42242,31.4315,FALSE
+Jharkhand,Koderma,132136,26519,20.0695,FALSE
+Jharkhand,Khunti,123201,23543,19.1094,FALSE
+Jharkhand,Lohardaga,106508,28292,26.5633,FALSE
+Karnataka,Belgaum,681728,30815,4.5201,FALSE
+Karnataka,Dakshina Kannada,583879,8540,1.4626,FALSE
+Karnataka,Bellary,563050,6303,1.1194,FALSE
+Karnataka,Gulbarga,536263,7227,1.3477,FALSE
+Karnataka,Mysore,509435,12807,2.514,FALSE
+Karnataka,Tumkur,493602,29229,5.9216,FALSE
+Karnataka,Shimoga,490159,16244,3.314,FALSE
+Karnataka,Raichur,460674,10309,2.2378,FALSE
+Karnataka,Hassan,396618,9005,2.2704,FALSE
+Karnataka,Mandya,387273,11563,2.9857,FALSE
+Karnataka,Bidar,378517,5006,1.3225,FALSE
+Karnataka,Udupi,334529,14060,4.2029,FALSE
+Karnataka,Chikmagalur,315928,14119,4.4691,FALSE
+Karnataka,Chitradurga,304499,21830,7.1692,FALSE
+Karnataka,Koppal,296363,5830,1.9672,FALSE
+Karnataka,Bijapur,295754,8745,2.9568,FALSE
+Karnataka,Haveri,295536,11004,3.7234,FALSE
+Karnataka,Yadgir,292660,13204,4.5117,FALSE
+Karnataka,Ramanagara,288569,12195,4.226,FALSE
+Karnataka,Kolar,272963,10557,3.8676,FALSE
+Karnataka,Davanagere,270743,10692,3.9491,FALSE
+Karnataka,Chikkaballapura,262792,5580,2.1234,FALSE
+Karnataka,Uttara Kannada,248632,5159,2.075,FALSE
+Karnataka,Chamarajanagar,235874,1563,0.6626,FALSE
+Karnataka,Bagalkot,230477,6394,2.7742,FALSE
+Karnataka,Bangalore Rural,201081,6172,3.0694,FALSE
+Karnataka,Dharwad,164842,3585,2.1748,FALSE
+Karnataka,Bangalore,164263,2496,1.5195,FALSE
+Karnataka,Gadag,143658,9883,6.8795,FALSE
+Karnataka,Kodagu,120963,2113,1.7468,FALSE
+Madhya Pradesh,Indore,677802,11013,1.6248,FALSE
+Madhya Pradesh,Rewa,502643,52250,10.3951,FALSE
+Madhya Pradesh,Bhopal,485372,22235,4.581,FALSE
+Madhya Pradesh,Satna,460174,42825,9.3063,FALSE
+Madhya Pradesh,Dhar,368339,47052,12.7741,FALSE
+Madhya Pradesh,Sagar,364450,52076,14.2889,FALSE
+Madhya Pradesh,Betul,349729,40060,11.4546,FALSE
+Madhya Pradesh,Ujjain,341156,23220,6.8063,FALSE
+Madhya Pradesh,Khargone (West Nimar),336071,55391,16.4819,FALSE
+Madhya Pradesh,Gwalior,331081,50272,15.1842,FALSE
+Madhya Pradesh,Balaghat,328523,44967,13.6876,FALSE
+Madhya Pradesh,Dewas,297462,30707,10.323,FALSE
+Madhya Pradesh,Katni,288653,29521,10.2272,FALSE
+Madhya Pradesh,Mandsaur,285403,19666,6.8906,FALSE
+Madhya Pradesh,Seoni,282574,33515,11.8606,FALSE
+Madhya Pradesh,Damoh,279487,34215,12.2421,FALSE
+Madhya Pradesh,Chhatarpur,279098,50016,17.9206,FALSE
+Madhya Pradesh,Ratlam,273147,26739,9.7892,FALSE
+Madhya Pradesh,Chhindwara,270597,41975,15.512,FALSE
+Madhya Pradesh,Jabalpur,256628,40366,15.7294,FALSE
+Madhya Pradesh,Tikamgarh,255795,26419,10.3282,FALSE
+Madhya Pradesh,Narsinghpur,254434,31600,12.4197,FALSE
+Madhya Pradesh,Shivpuri,245176,88118,35.9407,FALSE
+Madhya Pradesh,Rajgarh,240414,68692,28.5724,FALSE
+Madhya Pradesh,Morena,232045,86766,37.3919,FALSE
+Madhya Pradesh,Bhind,230252,100623,43.7012,FALSE
+Madhya Pradesh,Vidisha,229439,53531,23.3313,FALSE
+Madhya Pradesh,Barwani,228886,36595,15.9883,FALSE
+Madhya Pradesh,Mandla,225385,34174,15.1625,FALSE
+Madhya Pradesh,Sehore,220394,25116,11.396,FALSE
+Madhya Pradesh,Khandwa (East Nimar),206641,22810,11.0385,FALSE
+Madhya Pradesh,Singrauli,205968,48929,23.7556,FALSE
+Madhya Pradesh,Sidhi,204338,47878,23.4308,FALSE
+Madhya Pradesh,Hoshangabad,198811,24497,12.3218,FALSE
+Madhya Pradesh,Guna,193530,61015,31.5274,FALSE
+Madhya Pradesh,Raisen,186679,52459,28.1012,FALSE
+Madhya Pradesh,Jhabua,185415,48595,26.2088,FALSE
+Madhya Pradesh,Shahdol,179700,42321,23.5509,FALSE
+Madhya Pradesh,Neemuch,164206,10925,6.6532,FALSE
+Madhya Pradesh,Burhanpur,156913,10097,6.4348,FALSE
+Madhya Pradesh,Dindori,154294,32011,20.7468,FALSE
+Madhya Pradesh,Shajapur,139411,16761,12.0227,FALSE
+Madhya Pradesh,Panna,136671,32375,23.6883,FALSE
+Madhya Pradesh,Alirajpur,130686,32351,24.7548,FALSE
+Madhya Pradesh,Datia,125474,38871,30.9793,FALSE
+Madhya Pradesh,Ashoknagar,116703,21132,18.1075,FALSE
+Madhya Pradesh,Anuppur,114764,44986,39.1987,FALSE
+Madhya Pradesh,Umaria,110056,32328,29.3741,FALSE
+Madhya Pradesh,Sheopur,106965,37465,35.0255,FALSE
+Madhya Pradesh,Harda,101395,14381,14.1831,FALSE
+Madhya Pradesh,Agar Malwa,81778,12362,15.1165,FALSE
+Rajasthan,Jaipur,1267290,58335,4.6031,FALSE
+Rajasthan,Jodhpur,659626,236538,35.8594,FALSE
+Rajasthan,Alwar,630190,94592,15.0101,FALSE
+Rajasthan,Udaipur,577540,64370,11.1455,FALSE
+Rajasthan,Nagaur,556550,39785,7.1485,FALSE
+Rajasthan,Ajmer,508868,15193,2.9856,FALSE
+Rajasthan,Pali,491272,138088,28.1083,FALSE
+Rajasthan,Sikar,475173,45975,9.6754,FALSE
+Rajasthan,Bhilwara,473342,25825,5.4559,FALSE
+Rajasthan,Kota,431702,59916,13.879,FALSE
+Rajasthan,Bharatpur,400340,68136,17.0195,FALSE
+Rajasthan,Jhunjhunun,399778,31121,7.7846,FALSE
+Rajasthan,Ganganagar,380457,25159,6.6128,FALSE
+Rajasthan,Bikaner,380379,73532,19.3312,FALSE
+Rajasthan,Barmer,378950,78237,20.6457,FALSE
+Rajasthan,Hanumangarh,355962,41330,11.6108,FALSE
+Rajasthan,Churu,355961,24746,6.9519,FALSE
+Rajasthan,Chittaurgarh,312307,15849,5.0748,FALSE
+Rajasthan,Jhalawar,296183,86373,29.162,FALSE
+Rajasthan,Banswara,289509,31101,10.7427,FALSE
+Rajasthan,Dausa,285666,49603,17.364,FALSE
+Rajasthan,Tonk,282231,38471,13.631,FALSE
+Rajasthan,Jalor,275323,29327,10.6519,FALSE
+Rajasthan,Karauli,267612,58033,21.6855,FALSE
+Rajasthan,Dungarpur,265607,36616,13.7858,FALSE
+Rajasthan,Rajsamand,237619,7669,3.2274,FALSE
+Rajasthan,Baran,234459,46886,19.9975,FALSE
+Rajasthan,Sawai Madhopur,210654,11863,5.6315,FALSE
+Rajasthan,Dhaulpur,209122,28288,13.527,FALSE
+Rajasthan,Sirohi,206556,46868,22.6902,FALSE
+Rajasthan,Bundi,199588,20713,10.3779,FALSE
+Rajasthan,Pratapgarh,190857,48709,25.5212,FALSE
+Rajasthan,Jaisalmer,112318,25829,22.9963,FALSE
+Sikkim,East Sikkim,33466,2117,6.3258,FALSE
+Sikkim,West Sikkim,31425,6919,22.0175,FALSE
+Sikkim,South Sikkim,26058,4052,15.5499,FALSE
+Sikkim,North Sikkim,7819,1812,23.1743,FALSE
+Tamil Nadu,Viluppuram,701185,0,0,FALSE
+Tamil Nadu,Vellore,618872,0,0,FALSE
+Tamil Nadu,Tiruvannamalai,538656,0,0,FALSE
+Tamil Nadu,Kancheepuram,491431,0,0,FALSE
+Tamil Nadu,Salem,461188,0,0,FALSE
+Tamil Nadu,Tirunelveli,422568,0,0,FALSE
+Tamil Nadu,Madurai,421973,0,0,FALSE
+Tamil Nadu,Cuddalore,412424,0,0,FALSE
+Tamil Nadu,Thiruvallur,379277,0,0,FALSE
+Tamil Nadu,Krishnagiri,372263,0,0,FALSE
+Tamil Nadu,Thanjavur,362426,0,0,FALSE
+Tamil Nadu,Virudhunagar,341000,0,0,FALSE
+Tamil Nadu,Thoothukkudi,331942,0,0,FALSE
+Tamil Nadu,Nagapattinam,330082,0,0,FALSE
+Tamil Nadu,Erode,324343,0,0,FALSE
+Tamil Nadu,Dindigul,323203,0,0,FALSE
+Tamil Nadu,Tiruchirappalli,317488,0,0,FALSE
+Tamil Nadu,Sivaganga,301687,0,0,FALSE
+Tamil Nadu,Pudukkottai,300508,0,0,FALSE
+Tamil Nadu,Tiruppur,293417,0,0,FALSE
+Tamil Nadu,Dharmapuri,268286,0,0,FALSE
+Tamil Nadu,Ramanathapuram,262464,0,0,FALSE
+Tamil Nadu,Thiruvarur,253962,0,0,FALSE
+Tamil Nadu,Namakkal,247796,0,0,FALSE
+Tamil Nadu,Coimbatore,244417,0,0,FALSE
+Tamil Nadu,Kanniyakumari,207462,2170,1.046,FALSE
+Tamil Nadu,Ariyalur,186938,0,0,FALSE
+Tamil Nadu,Karur,182234,0,0,FALSE
+Tamil Nadu,Theni,163437,0,0,FALSE
+Tamil Nadu,Perambalur,137215,0,0,FALSE
+Tamil Nadu,The Nilgiris,85704,0,0,FALSE
+Telangana,Karimnagar,1102378,21320,1.934,FALSE
+Telangana,Nalgonda,921000,57887,6.2852,FALSE
+Telangana,Warangal,792042,65510,8.271,FALSE
+Telangana,Mahbubnagar,756478,111851,14.7858,FALSE
+Telangana,Medak,687513,70839,10.3037,FALSE
+Telangana,Adilabad,656603,41042,6.2507,FALSE
+Telangana,Khammam,614249,36899,6.0072,FALSE
+Telangana,Nizamabad,509569,18264,3.5842,FALSE
+Telangana,Rangareddy,496839,28403,5.7167,FALSE
+Tripura,West Tripura,141393,15082,10.6667,FALSE
+Tripura,Sepahijala,109801,12742,11.6046,FALSE
+Tripura,North Tripura,105438,18478,17.525,FALSE
+Tripura,Gomati,97876,14933,15.2571,FALSE
+Tripura,South Tripura,96153,12550,13.0521,FALSE
+Tripura,Dhalai,91845,34381,37.4337,FALSE
+Tripura,Khowai,81062,15025,18.5352,FALSE
+Tripura,Unakoti,65303,13217,20.2395,FALSE
+Uttar Pradesh,Lucknow,951693,93276,9.8011,FALSE
+Uttar Pradesh,Deoria,790813,157439,19.9085,FALSE
+Uttar Pradesh,Ghaziabad,773340,18402,2.3795,FALSE
+Uttar Pradesh,Gorakhpur,764505,208546,27.2786,FALSE
+Uttar Pradesh,Varanasi,730769,119949,16.4141,FALSE
+Uttar Pradesh,Allahabad,712128,165927,23.3002,FALSE
+Uttar Pradesh,Agra,655387,58193,8.8792,FALSE
+Uttar Pradesh,Saharanpur,649863,116589,17.9406,FALSE
+Uttar Pradesh,Meerut,640147,53149,8.3026,FALSE
+Uttar Pradesh,Jaunpur,624213,194342,31.1339,FALSE
+Uttar Pradesh,Azamgarh,608591,173090,28.4411,FALSE
+Uttar Pradesh,Bareilly,567893,117970,20.7733,FALSE
+Uttar Pradesh,Aligarh,559704,110243,19.6967,FALSE
+Uttar Pradesh,Fatehpur,535111,129908,24.2768,FALSE
+Uttar Pradesh,Bulandshahar,497722,120406,24.1914,FALSE
+Uttar Pradesh,Moradabad,494743,117608,23.7715,FALSE
+Uttar Pradesh,Muzaffarnagar,490627,62865,12.8132,FALSE
+Uttar Pradesh,Bijnor,486790,107789,22.1428,FALSE
+Uttar Pradesh,Sitapur,479434,194957,40.664,FALSE
+Uttar Pradesh,Kheri,475326,121022,25.4608,FALSE
+Uttar Pradesh,Pratapgarh,468284,118074,25.2142,FALSE
+Uttar Pradesh,Kushinagar,468148,172631,36.8753,FALSE
+Uttar Pradesh,Unnao,458440,195911,42.7343,FALSE
+Uttar Pradesh,Hardoi,451609,197836,43.8069,FALSE
+Uttar Pradesh,Ghazipur,439247,142441,32.4285,FALSE
+Uttar Pradesh,Rae Bareli,435149,75340,17.3136,FALSE
+Uttar Pradesh,Mahrajganj,432394,140845,32.5733,FALSE
+Uttar Pradesh,Bahraich,421870,173994,41.2435,FALSE
+Uttar Pradesh,Ballia,402603,138135,34.3105,FALSE
+Uttar Pradesh,Siddharthnagar,393382,119477,30.3718,FALSE
+Uttar Pradesh,Basti,388636,125569,32.3102,FALSE
+Uttar Pradesh,Shahjahanpur,387297,137490,35.4999,FALSE
+Uttar Pradesh,Sultanpur,381524,119236,31.2526,FALSE
+Uttar Pradesh,Barabanki,359933,120306,33.4246,FALSE
+Uttar Pradesh,Firozabad,353065,76500,21.6674,FALSE
+Uttar Pradesh,Mathura,349829,79134,22.6208,FALSE
+Uttar Pradesh,Faizabad,342778,101601,29.6405,FALSE
+Uttar Pradesh,Chandauli,338223,78237,23.1318,FALSE
+Uttar Pradesh,Gautam Buddha Nagar,333987,19914,5.9625,FALSE
+Uttar Pradesh,Mirzapur,331374,121794,36.7542,FALSE
+Uttar Pradesh,Sonbhadra,326060,174025,53.3721,FALSE
+Uttar Pradesh,Budaun,320306,88690,27.6891,FALSE
+Uttar Pradesh,Mau,318930,86337,27.0708,FALSE
+Uttar Pradesh,Rampur,318352,104186,32.7267,FALSE
+Uttar Pradesh,Gonda,307280,133589,43.4747,FALSE
+Uttar Pradesh,Ambedkar Nagar,306337,57152,18.6566,FALSE
+Uttar Pradesh,Pilibhit,301855,71681,23.7468,FALSE
+Uttar Pradesh,Jyotiba Phule Nagar,292238,78403,26.8285,FALSE
+Uttar Pradesh,Balrampur,288846,80554,27.8882,FALSE
+Uttar Pradesh,Jhansi,280679,53682,19.1258,FALSE
+Uttar Pradesh,Mahamaya Nagar,279295,51896,18.5811,FALSE
+Uttar Pradesh,Sambhal,268609,91837,34.1898,FALSE
+Uttar Pradesh,Farrukhabad,257043,89356,34.7631,FALSE
+Uttar Pradesh,Baghpat,246577,20855,8.4578,FALSE
+Uttar Pradesh,Banda,239153,107463,44.9348,FALSE
+Uttar Pradesh,Jalaun,237686,88742,37.3358,FALSE
+Uttar Pradesh,Mainpuri,235017,75523,32.1351,FALSE
+Uttar Pradesh,Sant Kabir Nagar,231955,91619,39.4986,FALSE
+Uttar Pradesh,Auraiya,230549,75308,32.6646,FALSE
+Uttar Pradesh,Amethi,226963,67801,29.8732,FALSE
+Uttar Pradesh,Shamli,217158,26614,12.2556,FALSE
+Uttar Pradesh,Kannauj,212595,79909,37.5874,FALSE
+Uttar Pradesh,Kanpur Dehat,208626,87532,41.9564,FALSE
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),204379,67954,33.249,FALSE
+Uttar Pradesh,Hapur,197907,33074,16.7119,FALSE
+Uttar Pradesh,Kanpur Nagar,197412,67178,34.0293,FALSE
+Uttar Pradesh,Etawah,196704,51876,26.3726,FALSE
+Uttar Pradesh,Etah,183798,62349,33.9226,FALSE
+Uttar Pradesh,Hamirpur,173485,61736,35.5858,FALSE
+Uttar Pradesh,Kanshiram Nagar,160113,48033,29.9994,FALSE
+Uttar Pradesh,Chitrakoot,159972,89403,55.8867,FALSE
+Uttar Pradesh,Shrawasti,156721,58842,37.5457,FALSE
+Uttar Pradesh,Kaushambi,156498,60170,38.4478,FALSE
+Uttar Pradesh,Lalitpur,155314,60720,39.095,FALSE
+Uttar Pradesh,Mahoba,154479,39043,25.274,FALSE
+Uttarakhand,Dehradun,371135,37736,10.1677,FALSE
+Uttarakhand,Haridwar,365950,43595,11.9128,FALSE
+Uttarakhand,Udham Singh Nagar,351751,49796,14.1566,FALSE
+Uttarakhand,Nainital,205288,21273,10.3625,FALSE
+Uttarakhand,Garhwal,148997,10379,6.9659,FALSE
+Uttarakhand,Almora,135290,9883,7.305,FALSE
+Uttarakhand,Tehri Garhwal,124821,12416,9.947,FALSE
+Uttarakhand,Pithoragarh,101060,10207,10.0999,FALSE
+Uttarakhand,Chamoli,73485,8123,11.054,FALSE
+Uttarakhand,Bageshwar,52921,6525,12.3297,FALSE
+Uttarakhand,Champawat,51081,7369,14.4261,FALSE
+Uttarakhand,Uttarkashi,49005,11450,23.365,FALSE
+Uttarakhand,Rudraprayag,45829,3556,7.7593,FALSE
+West Bengal,Murshidabad,1325132,54433,4.1077,FALSE
+West Bengal,North 24 Parganas,1293658,61078,4.7213,FALSE
+West Bengal,South 24 Parganas,1246191,144401,11.5874,FALSE
+West Bengal,Paschim Medinipur,1142290,21901,1.9173,FALSE
+West Bengal,Bardhaman,1102392,65767,5.9658,FALSE
+West Bengal,Purba Medinipur,1026093,33407,3.2557,FALSE
+West Bengal,Nadia,1016922,51631,5.0772,FALSE
+West Bengal,Hooghly,1010700,41692,4.1251,FALSE
+West Bengal,Jalpaiguri,812502,17130,2.1083,FALSE
+West Bengal,Howrah,791831,27827,3.5143,FALSE
+West Bengal,Maldah,760589,32871,4.3218,FALSE
+West Bengal,Bankura,663499,24415,3.6797,FALSE
+West Bengal,Birbhum,652306,36859,5.6506,FALSE
+West Bengal,Purulia,542505,52234,9.6283,FALSE
+West Bengal,Uttar Dinajpur,517629,14339,2.7701,FALSE
+West Bengal,Cooch Behar,516910,35043,6.7793,FALSE
+West Bengal,Darjiling,320866,10434,3.2518,FALSE
+West Bengal,Dakhshin Dinajpur,316515,6828,2.1572,FALSE
+Maharashtra,Thane,3482554,151331,4.3454,FALSE
+Maharashtra,Pune,2681210,165574,6.1753,FALSE
+Maharashtra,Nashik,1425564,72355,5.0755,FALSE
+Maharashtra,Nagpur,1201252,40509,3.3722,FALSE
+Maharashtra,Ahmadnagar,1002611,40310,4.0205,FALSE
+Maharashtra,Jalgaon,967642,70758,7.3124,FALSE
+Maharashtra,Kolhapur,933649,29060,3.1125,FALSE
+Maharashtra,Solapur,907090,29379,3.2388,FALSE
+Maharashtra,Aurangabad,755484,47023,6.2242,FALSE
+Maharashtra,Yavatmal,731953,22131,3.0236,FALSE
+Maharashtra,Raigarh,726126,52437,7.2215,FALSE
+Maharashtra,Satara,699846,31817,4.5463,FALSE
+Maharashtra,Amravati,667695,30029,4.4974,FALSE
+Maharashtra,Sangli,622318,18427,2.961,FALSE
+Maharashtra,Chandrapur,621817,17648,2.8381,FALSE
+Maharashtra,Nanded,609057,32222,5.2905,FALSE
+Maharashtra,Beed,573976,14720,2.5646,FALSE
+Maharashtra,Buldana,572112,16372,2.8617,FALSE
+Maharashtra,Ratnagiri,542350,21123,3.8947,FALSE
+Maharashtra,Dhule,472108,29401,6.2276,FALSE
+Maharashtra,Latur,431498,30045,6.963,FALSE
+Maharashtra,Jalna,423086,24901,5.8856,FALSE
+Maharashtra,Akola,410671,14520,3.5357,FALSE
+Maharashtra,Osmanabad,360114,13353,3.708,FALSE
+Maharashtra,Parbhani,356210,11355,3.1877,FALSE
+Maharashtra,Wardha,336977,14737,4.3733,FALSE
+Maharashtra,Gondiya,325181,17231,5.2989,FALSE
+Maharashtra,Bhandara,316161,15529,4.9117,FALSE
+Maharashtra,Sindhudurg,301757,9762,3.2351,FALSE
+Maharashtra,Nandurbar,290250,83463,28.7556,FALSE
+Maharashtra,Gadchiroli,279255,34454,12.3378,FALSE
+Maharashtra,Hingoli,270522,39721,14.6831,FALSE
+Maharashtra,Washim,256308,8589,3.351,FALSE
+Maharashtra,Mumbai,6002,6002,100,FALSE
+Puducherry,Puducherry,70020,771,1.1011,FALSE
+Puducherry,Karaikal,25596,141,0.5509,FALSE
+Punjab,Ludhiana,377685,199,0.0527,FALSE
+Punjab,Gurdaspur,313402,261,0.0833,FALSE
+Punjab,Hoshiarpur,297850,16,0.0054,FALSE
+Punjab,Firozpur,268688,493,0.1835,FALSE
+Punjab,Amritsar,264077,568,0.2151,FALSE
+Punjab,Sangrur,257539,59,0.0229,FALSE
+Punjab,Patiala,233549,83,0.0355,FALSE
+Punjab,Jalandhar,225817,146,0.0647,FALSE
+Punjab,Tarn Taran,192717,165,0.0856,FALSE
+Punjab,Bathinda,172259,321,0.1863,FALSE
+Punjab,Moga,161924,1,0.0006,FALSE
+Punjab,Muktsar,125325,486,0.3878,FALSE
+Punjab,Kapurthala,118368,319,0.2695,FALSE
+Punjab,Mansa,118254,251,0.2123,FALSE
+Punjab,Sahibzada Ajit Singh Nagar,112398,30,0.0267,FALSE
+Punjab,Shahid Bhagat Singh Nagar (Nawanshahr),108355,20,0.0185,FALSE
+Punjab,Rupnagar,103628,1,0.001,FALSE
+Punjab,Fatehgarh Sahib,85160,1,0.0012,FALSE
+Punjab,Barnala,79201,57,0.072,FALSE
+Punjab,Faridkot,76865,0,0,FALSE
+Odisha,Ganjam,781775,146490,18.7381,FALSE
+Odisha,Cuttack,613948,80268,13.0741,FALSE
+Odisha,Mayurbhanj,576735,125334,21.7316,FALSE
+Odisha,Khordha,529842,78113,14.7427,FALSE
+Odisha,Baleshwar,514422,84702,16.4655,FALSE
+Odisha,Kendujhar,444695,158869,35.7254,FALSE
+Odisha,Sundargarh,436148,122338,28.0497,FALSE
+Odisha,Balangir,395889,178281,45.0331,FALSE
+Odisha,Jajapur,395802,70522,17.8175,FALSE
+Odisha,Puri,388824,85471,21.9819,FALSE
+Odisha,Kalahandi,370285,159779,43.1503,FALSE
+Odisha,Koraput,341930,122795,35.9123,FALSE
+Odisha,Kendrapara,327684,57408,17.5193,FALSE
+Odisha,Anugul,323844,80201,24.7653,FALSE
+Odisha,Bhadrak,316313,64983,20.5439,FALSE
+Odisha,Bargarh,314555,94906,30.1715,FALSE
+Odisha,Dhenkanal,305162,83974,27.5178,FALSE
+Odisha,Nabarangapur,288855,110159,38.1364,FALSE
+Odisha,Jagatsinghapur,272642,53617,19.6657,FALSE
+Odisha,Nayagarh,242909,42147,17.3509,FALSE
+Odisha,Rayagada,234390,64274,27.4218,FALSE
+Odisha,Sambalpur,189061,53130,28.102,FALSE
+Odisha,Kandhamal,171976,52043,30.2618,FALSE
+Odisha,Sonapur,137109,41312,30.1308,FALSE
+Odisha,Nuapada,136112,45740,33.6047,FALSE
+Odisha,Malkangiri,133614,33953,25.4113,FALSE
+Odisha,Gajapati,130988,31661,24.1709,FALSE
+Odisha,Jharsuguda,122812,28020,22.8154,FALSE
+Odisha,Baudh,109277,26386,24.146,FALSE
+Odisha,Debagarh,73698,25011,33.9371,FALSE
+Nagaland,Dimapur,157203,20370,12.9578,FALSE
+Nagaland,Kohima,81789,9649,11.7974,FALSE
+Nagaland,Mon,41164,11809,28.6877,FALSE
+Nagaland,Mokokchung,40375,11726,29.0427,FALSE
+Nagaland,Wokha,38918,11461,29.4491,FALSE
+Nagaland,Phek,38567,12295,31.8796,FALSE
+Nagaland,Tuensang,37510,15065,40.1626,FALSE
+Nagaland,Zunheboto,36264,18577,51.2271,FALSE
+Nagaland,Peren,19686,9649,49.0145,FALSE
+Nagaland,Longleng,16293,5236,32.1365,FALSE
+Nagaland,Kiphire,16101,6670,41.426,FALSE
+Mizoram,Aizawl,85319,2123,2.4883,FALSE
+Mizoram,Lunglei,36666,4836,13.1893,FALSE
+Mizoram,Champhai,28577,1820,6.3688,FALSE
+Mizoram,Lawngtlai,25493,9261,36.3276,FALSE
+Mizoram,Mamit,21003,5011,23.8585,FALSE
+Mizoram,Kolasib,18480,1842,9.9675,FALSE
+Mizoram,Serchhip,13428,471,3.5076,FALSE
+Mizoram,Saiha,12830,2523,19.6648,FALSE
+Meghalaya,East Khasi Hills,182418,26762,14.6707,FALSE
+Meghalaya,West Garo Hills,145135,57991,39.9566,FALSE
+Meghalaya,West Jaintia Hills,82324,29068,35.3093,FALSE
+Meghalaya,West Khasi Hills,71473,24577,34.3864,FALSE
+Meghalaya,East Garo Hills,66528,28835,43.3427,FALSE
+Meghalaya,Ri Bhoi,59626,21064,35.3269,FALSE
+Meghalaya,South Garo Hills,28298,11542,40.7873,FALSE
+Manipur,Senapati,76093,19451,25.5621,FALSE
+Manipur,Imphal East,62915,5263,8.3653,FALSE
+Manipur,Churachandpur,61526,15154,24.6302,FALSE
+Manipur,Thoubal,61046,14431,23.6396,FALSE
+Manipur,Imphal West,56083,5665,10.1011,FALSE
+Manipur,Bishnupur,37487,5342,14.2503,FALSE
+Manipur,Ukhrul,34799,13037,37.4637,FALSE
+Manipur,Chandel,32818,12262,37.3636,FALSE
+Manipur,Tamenglong,30375,11612,38.2288,FALSE
