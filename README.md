@@ -14,9 +14,8 @@ with its output, so all results can be checked without running the code.
 
 ## Quick start
 
-1. Download the 8 NFHS files from The DHS Program (section 2) into one folder.
-2. Tell the code where that folder is (section 3): either name it `NFHS_data` and put it next to
-   this repository's folder, or set its path in a `.Renviron` file.
+1. Download the 8 NFHS files from The DHS Program (section 2).
+2. Copy them into the folder `data/raw/nfhs/` inside this repository.
 3. Open `ADP_Project.Rproj` in RStudio and run `source("run_all.R")` in the console.
 4. Compare the results with the thesis using section 5.
 
@@ -39,9 +38,10 @@ To obtain them:
    **2019-21 (NFHS-5)**.
 2. Download these four datasets for each survey, in **Stata** format: Children's Recode (KR),
    Household Recode (HR), Individual (women's) Recode (IR) and Births' Recode (BR).
-3. Unzip them into one folder, for example `NFHS_data/`. The folder can contain other files and
-   subfolders: the code searches it for the 8 files below by name (upper or lower case), wherever
-   they are inside it. Each file must appear only once.
+3. Unzip each download. Each zip contains one `.DTA` file (and some other files you can ignore).
+4. Copy the 8 `.DTA` files below into the folder **`data/raw/nfhs/`** inside this repository
+   (the folder already exists and contains a short README). They can also sit in subfolders of
+   `data/raw/nfhs/`, but each file must appear only once.
 
 | File | Survey | Recode |
 |---|---|---|
@@ -59,28 +59,9 @@ and the district links) are public and included in `data/` (sections 6 and 7).
 
 ## 3. How to run
 
-The only setup is telling the code where the NFHS folder is. Either:
-
-- **put the folder next to this repository** and name it `NFHS_data`:
-
-  ```
-  any_folder/
-    <this repository>/
-    NFHS_data/          (the 8 NFHS files, section 2)
-  ```
-
-- **or set its path**: copy `.Renviron.example` to a new file named `.Renviron` in the repository
-  folder, set `ADP_DHS_DIR` to the full path of the NFHS folder, and restart R (Session > Restart R).
-  On Windows, use forward slashes, for example `ADP_DHS_DIR="C:/Users/name/Data/NFHS_data"`.
-  Files whose names start with a dot are hidden by default: on a Mac, press Cmd + Shift + . in
-  Finder to show them; on Windows, tick *View > Hidden items* in File Explorer. The file can also be
-  created in RStudio (*File > New File > Text File*, then save it as `.Renviron` in the repository
-  folder).
-
-Then:
-
-1. Open `ADP_Project.Rproj` in RStudio.
-2. In the R console, run `source("run_all.R")`.
+1. Check that the 8 `.DTA` files are in `data/raw/nfhs/` (section 2).
+2. Open `ADP_Project.Rproj` in RStudio (double-click it).
+3. In the RStudio console, type `source("run_all.R")` and press Enter.
 
 `run_all.R` installs any missing package, checks that all 8 NFHS files are found (it stops and lists
 any that are missing), knits `ADP_pipeline.Rmd` to `ADP_pipeline.html`, and writes every table to
@@ -100,8 +81,8 @@ file behind each thesis table and figure.
 
 | Message | What to do |
 |---|---|
-| `NFHS data folder not found` | The path in `.Renviron` is wrong or R was not restarted after saving it, or `NFHS_data` is not next to the repository folder |
-| `NFHS file not found under ...` | One of the 8 files in section 2 is missing from the folder, or was not unzipped |
+| `NFHS data folder not found` | The folder `data/raw/nfhs/` is missing: create it inside the repository folder and copy the 8 files into it |
+| `NFHS file not found under ...` | One of the 8 files in section 2 is not in `data/raw/nfhs/`, or was not unzipped |
 | `More than one copy of ...` | The same file is in the folder twice (for example in two subfolders); keep one copy |
 | A package fails to install | Install it by hand with `install.packages("name")`, then run `source("run_all.R")` again |
 | R runs out of memory | Close other programs; the first run needs about 16 GB of RAM |
@@ -194,9 +175,10 @@ final thesis: the replication of Agarwal and Mishra's (2024) health and nutritio
 | `ADP_pipeline.Rmd` | The full analysis |
 | `ADP_pipeline.html` | The knitted analysis: code and output |
 | `run_all.R` | Runs the full analysis |
-| `config.R` | Paths and the seed; the NFHS folder is read from `.Renviron` |
+| `config.R` | Paths and the seed |
 | `R/check_dhs.R` | Checks that the NFHS files are in place |
 | `R/build_district_links.py` | Builds the NFHS-4 to NFHS-5 district links (run once; its output is in `data/lookups/`) |
+| `data/raw/nfhs/` | Where you put the 8 NFHS files (not included; never uploaded) |
 | `data/raw/external/` | Non-NFHS inputs as downloaded: SECC 2011, U-DISE 2015-16, Saubhagya |
 | `data/lookups/` | Official list of 112 Aspirational Districts, district links and name matches, with their sources (see its README) |
 | `outputs/tables/`, `outputs/figures/` | Every table and figure; district-level results only |

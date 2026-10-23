@@ -9,6 +9,9 @@
 *.DTA
 *.dta
 *.zip
+# the NFHS folder: everything in it stays on your computer, except its README
+data/raw/nfhs/*
+!data/raw/nfhs/README.md
 data/intermediate/
 # knitting by-products
 ADP_pipeline_files/

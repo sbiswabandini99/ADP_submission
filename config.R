@@ -9,10 +9,9 @@ library(here)
 
 PROJECT_DIR <- here::here()
 
-## Folder with the NFHS files. Set ADP_DHS_DIR in a .Renviron file in the project
-## root (see .Renviron.example). If it is not set, a folder called NFHS_data next to
-## the project folder is used.
-DHS_RAW_DIR <- Sys.getenv("ADP_DHS_DIR", unset = file.path(dirname(PROJECT_DIR), "NFHS_data"))
+## Folder with the NFHS files: put the 8 .DTA files in data/raw/nfhs/ (README, section 2).
+## (Advanced users can point elsewhere by setting ADP_DHS_DIR in a .Renviron file.)
+DHS_RAW_DIR <- Sys.getenv("ADP_DHS_DIR", unset = here::here("data", "raw", "nfhs"))
 EXT_RAW_DIR <- here::here("data", "raw", "external")   # SECC 2011, U-DISE 2015-16, Saubhagya
 LOOKUP_DIR  <- here::here("data", "lookups")           # official AD list, district links and matches
 INTER_DIR   <- here::here("data", "intermediate")      # files written by the pipeline (not shared)
@@ -30,7 +29,7 @@ if (!file.exists(file.path(DHS_RAW_DIR, "IAKR74FL.DTA")) &&
 
 if (!dir.exists(DHS_RAW_DIR)) {
   stop("NFHS data folder not found: ", DHS_RAW_DIR,
-       "\nSet ADP_DHS_DIR in .Renviron in the project root (see .Renviron.example), then restart R.")
+       "\nPut the 8 NFHS .DTA files in the folder data/raw/nfhs/ (README, section 2).")
 }
 
 ## The knitted document runs every chunk from data/intermediate (set in the Rmd's setup chunk).
